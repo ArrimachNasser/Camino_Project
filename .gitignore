@@ -1,0 +1,15 @@
+# Windows/OS
+AppData/
+.vscode/
+anaconda*/
+Documents/
+Desktop/
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+.env
+
+# Dados brutos (manter processed)
+data/raw/
+data/external/
