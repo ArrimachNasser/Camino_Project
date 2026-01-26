@@ -1,0 +1,1793 @@
+ID,Year,Month,Total,Route,Count,Start_City,Start_Lat,Start_Long,End_City,End_Lat,End_Long
+200401,2004,1,643,French Way,566,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200402,2004,2,1401,French Way,1124,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200403,2004,3,3105,French Way,2349,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200404,2004,4,15554,French Way,12024,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200405,2004,5,16860,French Way,13485,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200406,2004,6,19295,French Way,15983,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200407,2004,7,31891,French Way,24798,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200408,2004,8,45601,French Way,31264,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200409,2004,9,22752,French Way,18919,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200410,2004,10,14556,French Way,11964,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200411,2004,11,4410,French Way,3512,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200412,2004,12,3802,French Way,2649,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200501,2005,1,269,French Way,226,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200502,2005,2,565,French Way,478,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200503,2005,3,3121,French Way,2425,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200504,2005,4,3307,French Way,2661,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200505,2005,5,9310,French Way,7885,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200506,2005,6,12619,French Way,10997,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200507,2005,7,18804,French Way,15693,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200508,2005,8,24831,French Way,20873,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200509,2005,9,12168,French Way,10548,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200510,2005,10,6873,French Way,5980,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200511,2005,11,1388,French Way,1165,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200512,2005,12,668,French Way,479,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200601,2006,1,324,French Way,259,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200602,2006,2,351,French Way,285,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200603,2006,3,1096,French Way,944,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200604,2006,4,7451,French Way,5540,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200605,2006,5,10147,French Way,8462,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200606,2006,6,13011,French Way,11140,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200607,2006,7,18720,French Way,14717,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200608,2006,8,26183,French Way,21465,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200609,2006,9,13470,French Way,11455,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200610,2006,10,7700,French Way,6556,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200611,2006,11,1755,French Way,1454,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200612,2006,12,848,French Way,678,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200701,2007,1,350,French Way,294,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200702,2007,2,665,French Way,498,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200703,2007,3,1680,French Way,1405,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200704,2007,4,8115,French Way,6182,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200705,2007,5,12924,French Way,10619,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200706,2007,6,15182,French Way,12849,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200707,2007,7,20156,French Way,15509,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200708,2007,8,27289,French Way,21636,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200709,2007,9,15282,French Way,12615,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200710,2007,10,9443,French Way,8002,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200711,2007,11,2496,French Way,1942,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200712,2007,12,795,French Way,616,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200801,2008,1,306,French Way,240,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200802,2008,2,703,French Way,552,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200803,2008,3,5327,French Way,3792,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200804,2008,4,5648,French Way,4365,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200805,2008,5,16001,French Way,12841,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200806,2008,6,15904,French Way,13292,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200807,2008,7,21066,French Way,15937,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200808,2008,8,29996,French Way,23127,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200809,2008,9,17378,French Way,14136,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200810,2008,10,9878,French Way,8278,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200811,2008,11,2309,French Way,1872,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200812,2008,12,1085,French Way,634,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200901,2009,1,523,French Way,420,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200902,2009,2,698,French Way,514,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200903,2009,3,1850,French Way,1431,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200904,2009,4,10316,French Way,7870,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200905,2009,5,16498,French Way,12631,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200906,2009,6,19354,French Way,15267,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200907,2009,7,26752,French Way,20184,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200908,2009,8,35546,French Way,27306,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200909,2009,9,20623,French Way,16435,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200910,2009,10,11731,French Way,9357,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200911,2009,11,2353,French Way,1960,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200912,2009,12,1010,French Way,701,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201001,2010,1,1188,French Way,866,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201002,2010,2,1640,French Way,1256,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201003,2010,3,5883,French Way,4014,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201004,2010,4,19587,French Way,13646,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201005,2010,5,28846,French Way,20920,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201006,2010,6,33756,French Way,23761,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201007,2010,7,42466,French Way,29378,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201008,2010,8,61534,French Way,38930,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201009,2010,9,36848,French Way,27576,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201010,2010,10,26598,French Way,19588,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201011,2010,11,8075,French Way,5515,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201012,2010,12,5967,French Way,3829,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201101,2011,1,644,French Way,486,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201102,2011,2,820,French Way,628,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201103,2011,3,3023,French Way,1913,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201104,2011,4,14154,French Way,9914,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201105,2011,5,19805,French Way,14338,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201106,2011,6,25239,French Way,18211,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201107,2011,7,30842,French Way,22427,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201108,2011,8,41489,French Way,29799,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201109,2011,9,26023,French Way,19114,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201110,2011,10,16243,French Way,12149,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201111,2011,11,3591,French Way,2712,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201112,2011,12,1498,French Way,1004,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201201,2012,1,872,French Way,627,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201202,2012,2,1305,French Way,901,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201203,2012,3,3260,French Way,2196,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201204,2012,4,14749,French Way,9748,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201205,2012,5,21776,French Way,15527,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201206,2012,6,25517,French Way,18262,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201207,2012,7,32818,French Way,22396,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201208,2012,8,41096,French Way,27799,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201209,2012,9,27321,French Way,19884,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201210,2012,10,18091,French Way,13601,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201211,2012,11,4170,French Way,3019,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201212,2012,12,1483,French Way,1024,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201301,2013,1,806,French Way,562,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201302,2013,2,1382,French Way,946,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201303,2013,3,7228,French Way,4708,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201304,2013,4,11532,French Way,7832,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201305,2013,5,25205,French Way,18110,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201306,2013,6,29374,French Way,20968,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201307,2013,7,36559,French Way,25240,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201308,2013,8,46726,French Way,31609,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201309,2013,9,30894,French Way,22136,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201310,2013,10,19607,French Way,14891,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201311,2013,11,4907,French Way,3677,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201312,2013,12,1659,French Way,1139,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201401,2014,1,906,French Way,609,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201402,2014,2,970,French Way,679,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201403,2014,3,3150,French Way,2087,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201404,2014,4,17347,French Way,11383,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201405,2014,5,27354,French Way,18834,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201406,2014,6,33021,French Way,23251,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201407,2014,7,39581,French Way,26105,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201408,2014,8,51218,French Way,33983,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201409,2014,9,34457,French Way,23669,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201410,2014,10,23205,French Way,16677,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201411,2014,11,4803,French Way,3528,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201412,2014,12,1870,French Way,1205,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201501,2015,1,1217,French Way,847,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201502,2015,2,1544,French Way,1129,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201503,2015,3,5080,French Way,3418,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201504,2015,4,17721,French Way,11433,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201505,2015,5,31076,French Way,20534,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201506,2015,6,35923,French Way,25018,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201507,2015,7,44794,French Way,27921,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201508,2015,8,54794,French Way,33763,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201509,2015,9,37429,French Way,24608,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201510,2015,10,25576,French Way,18457,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201511,2015,11,5228,French Way,3766,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201512,2015,12,2062,French Way,1328,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201601,2016,1,1304,French Way,862,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201602,2016,2,1733,French Way,1195,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201603,2016,3,11067,French Way,7008,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201604,2016,4,15100,French Way,9554,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201605,2016,5,32776,French Way,21302,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201606,2016,6,39070,French Way,25615,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201607,2016,7,45471,French Way,27768,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201608,2016,8,53704,French Way,32226,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201609,2016,9,40149,French Way,25252,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201610,2016,10,28222,French Way,19050,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201611,2016,11,6394,French Way,4407,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201612,2016,12,2864,French Way,1836,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201701,2017,1,1354,French Way,841,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201702,2017,2,1696,French Way,1095,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201703,2017,3,5176,French Way,3004,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201704,2017,4,26925,French Way,16300,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201705,2017,5,35347,French Way,21512,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201706,2017,6,41619,French Way,26205,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201707,2017,7,47470,French Way,27061,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201708,2017,8,57680,French Way,32638,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201709,2017,9,42189,French Way,25677,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201710,2017,10,31341,French Way,20017,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201711,2017,11,7346,French Way,4650,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201712,2017,12,2893,French Way,1737,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201801,2018,1,1627,French Way,995,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201802,2018,2,2181,French Way,1110,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201803,2018,3,11056,French Way,6417,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201804,2018,4,22068,French Way,11944,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201805,2018,5,40665,French Way,23848,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201806,2018,6,45685,French Way,27346,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201807,2018,7,50867,French Way,27416,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201808,2018,8,60415,French Way,33381,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201809,2018,9,47006,French Way,26197,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201810,2018,10,35602,French Way,21345,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201811,2018,11,7651,French Way,4718,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201812,2018,12,2553,French Way,1482,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201901,2019,1,1651,French Way,905,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201902,2019,2,2119,French Way,1235,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201903,2019,3,7474,French Way,3724,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201904,2019,4,31722,French Way,17119,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201905,2019,5,46673,French Way,25706,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201906,2019,6,49058,French Way,28028,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201907,2019,7,53319,French Way,27802,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201908,2019,8,62814,French Way,33089,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201909,2019,9,45653,French Way,25010,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201910,2019,10,36118,French Way,20796,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201911,2019,11,8274,French Way,4969,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+201912,2019,12,2710,French Way,1557,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+202001,2020,1,2001,French Way,1091,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+202002,2020,2,3076,French Way,1666,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+202003,2020,3,1948,French Way,1060,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+202006,2020,6,12,French Way,5,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+202007,2020,7,9752,French Way,5326,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+202008,2020,8,19812,French Way,10446,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+202009,2020,9,10441,French Way,5456,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+202010,2020,10,6418,French Way,3416,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+202011,2020,11,585,French Way,408,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+202012,2020,12,99,French Way,32,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+202101,2021,1,60,French Way,28,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+202102,2021,2,14,French Way,9,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+202103,2021,3,194,French Way,121,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+202104,2021,4,1024,French Way,519,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+202105,2021,5,4295,French Way,2258,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+202106,2021,6,14824,French Way,8092,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+202107,2021,7,33963,French Way,18869,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+202108,2021,8,43575,French Way,24262,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+202109,2021,9,37463,French Way,20796,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+202110,2021,10,31170,French Way,16721,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+202111,2021,11,9094,French Way,4735,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+202112,2021,12,1193,French Way,691,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+202201,2022,1,1617,French Way,860,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+202202,2022,2,2034,French Way,880,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+202203,2022,3,7389,French Way,3921,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+202204,2022,4,34283,French Way,18330,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+202205,2022,5,48254,French Way,25907,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+202206,2022,6,58012,French Way,31598,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+202207,2022,7,67374,French Way,34839,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+202208,2022,8,85842,French Way,40745,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+202209,2022,9,66196,French Way,33556,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+202210,2022,10,51356,French Way,28086,Roncesvalles,43.016,-1.233,Santiago,42.88,-8.546
+200401,2004,1,643,Via de la Plata,25,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200402,2004,2,1401,Via de la Plata,20,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200403,2004,3,3105,Via de la Plata,92,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200404,2004,4,15554,Via de la Plata,735,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200405,2004,5,16860,Via de la Plata,704,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200406,2004,6,19295,Via de la Plata,803,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200407,2004,7,31891,Via de la Plata,1384,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200408,2004,8,45601,Via de la Plata,3830,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200409,2004,9,22752,Via de la Plata,777,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200410,2004,10,14556,Via de la Plata,684,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200411,2004,11,4410,Via de la Plata,180,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200412,2004,12,3802,Via de la Plata,98,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200501,2005,1,269,Via de la Plata,9,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200502,2005,2,565,Via de la Plata,20,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200503,2005,3,3121,Via de la Plata,129,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200504,2005,4,3307,Via de la Plata,148,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200505,2005,5,9310,Via de la Plata,493,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200506,2005,6,12619,Via de la Plata,469,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200507,2005,7,18804,Via de la Plata,612,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200508,2005,8,24831,Via de la Plata,639,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200509,2005,9,12168,Via de la Plata,304,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200510,2005,10,6873,Via de la Plata,206,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200511,2005,11,1388,Via de la Plata,82,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200512,2005,12,668,Via de la Plata,30,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200601,2006,1,324,Via de la Plata,15,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200602,2006,2,351,Via de la Plata,11,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200603,2006,3,1096,Via de la Plata,37,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200604,2006,4,7451,Via de la Plata,358,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200605,2006,5,10147,Via de la Plata,538,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200606,2006,6,13011,Via de la Plata,521,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200607,2006,7,18720,Via de la Plata,714,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200608,2006,8,26183,Via de la Plata,687,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200609,2006,9,13470,Via de la Plata,306,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200610,2006,10,7700,Via de la Plata,253,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200611,2006,11,1755,Via de la Plata,72,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200612,2006,12,848,Via de la Plata,26,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200701,2007,1,350,Via de la Plata,11,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200702,2007,2,665,Via de la Plata,20,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200703,2007,3,1680,Via de la Plata,40,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200704,2007,4,8115,Via de la Plata,448,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200705,2007,5,12924,Via de la Plata,666,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200706,2007,6,15182,Via de la Plata,520,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200707,2007,7,20156,Via de la Plata,827,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200708,2007,8,27289,Via de la Plata,716,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200709,2007,9,15282,Via de la Plata,459,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200710,2007,10,9443,Via de la Plata,358,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200711,2007,11,2496,Via de la Plata,96,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200712,2007,12,795,Via de la Plata,42,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200801,2008,1,306,Via de la Plata,18,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200802,2008,2,703,Via de la Plata,28,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200803,2008,3,5327,Via de la Plata,293,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200804,2008,4,5648,Via de la Plata,301,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200805,2008,5,16001,Via de la Plata,875,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200806,2008,6,15904,Via de la Plata,606,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200807,2008,7,21066,Via de la Plata,892,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200808,2008,8,29996,Via de la Plata,1071,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200809,2008,9,17378,Via de la Plata,559,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200810,2008,10,9878,Via de la Plata,335,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200811,2008,11,2309,Via de la Plata,116,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200812,2008,12,1085,Via de la Plata,35,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200901,2009,1,523,Via de la Plata,21,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200902,2009,2,698,Via de la Plata,37,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200903,2009,3,1850,Via de la Plata,112,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200904,2009,4,10316,Via de la Plata,580,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200905,2009,5,16498,Via de la Plata,1061,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200906,2009,6,19354,Via de la Plata,876,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200907,2009,7,26752,Via de la Plata,1117,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200908,2009,8,35546,Via de la Plata,1187,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200909,2009,9,20623,Via de la Plata,651,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200910,2009,10,11731,Via de la Plata,531,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200911,2009,11,2353,Via de la Plata,79,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200912,2009,12,1010,Via de la Plata,60,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201001,2010,1,1188,Via de la Plata,65,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201002,2010,2,1640,Via de la Plata,44,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201003,2010,3,5883,Via de la Plata,391,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201004,2010,4,19587,Via de la Plata,1111,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201005,2010,5,28846,Via de la Plata,1598,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201006,2010,6,33756,Via de la Plata,1661,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201007,2010,7,42466,Via de la Plata,2132,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201008,2010,8,61534,Via de la Plata,3764,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201009,2010,9,36848,Via de la Plata,1495,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201010,2010,10,26598,Via de la Plata,1198,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201011,2010,11,8075,Via de la Plata,493,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201012,2010,12,5967,Via de la Plata,300,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201101,2011,1,644,Via de la Plata,17,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201102,2011,2,820,Via de la Plata,36,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201103,2011,3,3023,Via de la Plata,283,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201104,2011,4,14154,Via de la Plata,662,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201105,2011,5,19805,Via de la Plata,1396,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201106,2011,6,25239,Via de la Plata,1264,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201107,2011,7,30842,Via de la Plata,1093,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201108,2011,8,41489,Via de la Plata,1438,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201109,2011,9,26023,Via de la Plata,860,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201110,2011,10,16243,Via de la Plata,740,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201111,2011,11,3591,Via de la Plata,208,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201112,2011,12,1498,Via de la Plata,65,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201201,2012,1,872,Via de la Plata,31,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201202,2012,2,1305,Via de la Plata,50,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201203,2012,3,3260,Via de la Plata,176,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201204,2012,4,14749,Via de la Plata,865,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201205,2012,5,21776,Via de la Plata,1258,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201206,2012,6,25517,Via de la Plata,1275,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201207,2012,7,32818,Via de la Plata,1373,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201208,2012,8,41096,Via de la Plata,1390,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201209,2012,9,27321,Via de la Plata,848,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201210,2012,10,18091,Via de la Plata,634,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201211,2012,11,4170,Via de la Plata,210,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201212,2012,12,1483,Via de la Plata,50,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201301,2013,1,806,Via de la Plata,45,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201302,2013,2,1382,Via de la Plata,87,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201303,2013,3,7228,Via de la Plata,298,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201304,2013,4,11532,Via de la Plata,535,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201305,2013,5,25205,Via de la Plata,1307,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201306,2013,6,29374,Via de la Plata,1408,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201307,2013,7,36559,Via de la Plata,1424,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201308,2013,8,46726,Via de la Plata,1658,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201309,2013,9,30894,Via de la Plata,1064,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201310,2013,10,19607,Via de la Plata,728,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201311,2013,11,4907,Via de la Plata,349,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201312,2013,12,1659,Via de la Plata,113,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201401,2014,1,906,Via de la Plata,25,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201402,2014,2,970,Via de la Plata,92,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201403,2014,3,3150,Via de la Plata,145,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201404,2014,4,17347,Via de la Plata,799,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201405,2014,5,27354,Via de la Plata,1292,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201406,2014,6,33021,Via de la Plata,1361,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201407,2014,7,39581,Via de la Plata,1495,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201408,2014,8,51218,Via de la Plata,1490,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201409,2014,9,34457,Via de la Plata,975,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201410,2014,10,23205,Via de la Plata,579,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201411,2014,11,4803,Via de la Plata,146,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201412,2014,12,1870,Via de la Plata,89,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201501,2015,1,1217,Via de la Plata,45,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201502,2015,2,1544,Via de la Plata,61,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201503,2015,3,5080,Via de la Plata,199,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201504,2015,4,17721,Via de la Plata,746,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201505,2015,5,31076,Via de la Plata,1432,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201506,2015,6,35923,Via de la Plata,1339,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201507,2015,7,44794,Via de la Plata,1893,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201508,2015,8,54794,Via de la Plata,1494,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201509,2015,9,37429,Via de la Plata,968,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201510,2015,10,25576,Via de la Plata,736,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201511,2015,11,5228,Via de la Plata,219,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201512,2015,12,2062,Via de la Plata,90,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201601,2016,1,1304,Via de la Plata,43,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201602,2016,2,1733,Via de la Plata,40,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201603,2016,3,11067,Via de la Plata,530,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201604,2016,4,15100,Via de la Plata,699,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201605,2016,5,32776,Via de la Plata,1230,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201606,2016,6,39070,Via de la Plata,1287,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201607,2016,7,45471,Via de la Plata,1595,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201608,2016,8,53704,Via de la Plata,1441,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201609,2016,9,40149,Via de la Plata,922,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201610,2016,10,28222,Via de la Plata,881,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201611,2016,11,6394,Via de la Plata,206,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201612,2016,12,2864,Via de la Plata,193,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201701,2017,1,1354,Via de la Plata,23,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201702,2017,2,1696,Via de la Plata,76,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201703,2017,3,5176,Via de la Plata,173,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201704,2017,4,26925,Via de la Plata,929,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201705,2017,5,35347,Via de la Plata,1351,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201706,2017,6,41619,Via de la Plata,1179,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201707,2017,7,47470,Via de la Plata,1699,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201708,2017,8,57680,Via de la Plata,1472,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201709,2017,9,42189,Via de la Plata,957,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201710,2017,10,31341,Via de la Plata,937,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201711,2017,11,7346,Via de la Plata,241,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201712,2017,12,2893,Via de la Plata,101,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201801,2018,1,1627,Via de la Plata,60,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201802,2018,2,2181,Via de la Plata,89,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201803,2018,3,11056,Via de la Plata,338,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201804,2018,4,22068,Via de la Plata,762,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201805,2018,5,40665,Via de la Plata,0,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201806,2018,6,45685,Via de la Plata,1363,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201807,2018,7,50867,Via de la Plata,1571,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201808,2018,8,60415,Via de la Plata,1568,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201809,2018,9,47006,Via de la Plata,981,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201810,2018,10,35602,Via de la Plata,753,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201811,2018,11,7651,Via de la Plata,320,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201812,2018,12,2553,Via de la Plata,85,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201901,2019,1,1651,Via de la Plata,56,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201902,2019,2,2119,Via de la Plata,59,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201903,2019,3,7474,Via de la Plata,330,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201904,2019,4,31722,Via de la Plata,980,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201905,2019,5,46673,Via de la Plata,1430,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201906,2019,6,49058,Via de la Plata,1455,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201907,2019,7,53319,Via de la Plata,1672,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201908,2019,8,62814,Via de la Plata,1201,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201909,2019,9,45653,Via de la Plata,761,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201910,2019,10,36118,Via de la Plata,884,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201911,2019,11,8274,Via de la Plata,264,Seville,37.389,-5.984,Santiago,42.88,-8.546
+201912,2019,12,2710,Via de la Plata,109,Seville,37.389,-5.984,Santiago,42.88,-8.546
+202001,2020,1,2001,Via de la Plata,51,Seville,37.389,-5.984,Santiago,42.88,-8.546
+202002,2020,2,3076,Via de la Plata,83,Seville,37.389,-5.984,Santiago,42.88,-8.546
+202003,2020,3,1948,Via de la Plata,65,Seville,37.389,-5.984,Santiago,42.88,-8.546
+202006,2020,6,12,Via de la Plata,0,Seville,37.389,-5.984,Santiago,42.88,-8.546
+202007,2020,7,9752,Via de la Plata,220,Seville,37.389,-5.984,Santiago,42.88,-8.546
+202008,2020,8,19812,Via de la Plata,310,Seville,37.389,-5.984,Santiago,42.88,-8.546
+202009,2020,9,10441,Via de la Plata,206,Seville,37.389,-5.984,Santiago,42.88,-8.546
+202010,2020,10,6418,Via de la Plata,140,Seville,37.389,-5.984,Santiago,42.88,-8.546
+202011,2020,11,585,Via de la Plata,30,Seville,37.389,-5.984,Santiago,42.88,-8.546
+202012,2020,12,99,Via de la Plata,20,Seville,37.389,-5.984,Santiago,42.88,-8.546
+202101,2021,1,60,Via de la Plata,4,Seville,37.389,-5.984,Santiago,42.88,-8.546
+202102,2021,2,14,Via de la Plata,0,Seville,37.389,-5.984,Santiago,42.88,-8.546
+202103,2021,3,194,Via de la Plata,5,Seville,37.389,-5.984,Santiago,42.88,-8.546
+202104,2021,4,1024,Via de la Plata,66,Seville,37.389,-5.984,Santiago,42.88,-8.546
+202105,2021,5,4295,Via de la Plata,165,Seville,37.389,-5.984,Santiago,42.88,-8.546
+202106,2021,6,14824,Via de la Plata,467,Seville,37.389,-5.984,Santiago,42.88,-8.546
+202107,2021,7,33963,Via de la Plata,648,Seville,37.389,-5.984,Santiago,42.88,-8.546
+202108,2021,8,43575,Via de la Plata,713,Seville,37.389,-5.984,Santiago,42.88,-8.546
+202109,2021,9,37463,Via de la Plata,591,Seville,37.389,-5.984,Santiago,42.88,-8.546
+202110,2021,10,31170,Via de la Plata,898,Seville,37.389,-5.984,Santiago,42.88,-8.546
+202111,2021,11,9094,Via de la Plata,304,Seville,37.389,-5.984,Santiago,42.88,-8.546
+202112,2021,12,1193,Via de la Plata,41,Seville,37.389,-5.984,Santiago,42.88,-8.546
+202201,2022,1,1617,Via de la Plata,57,Seville,37.389,-5.984,Santiago,42.88,-8.546
+202202,2022,2,2034,Via de la Plata,78,Seville,37.389,-5.984,Santiago,42.88,-8.546
+202203,2022,3,7389,Via de la Plata,161,Seville,37.389,-5.984,Santiago,42.88,-8.546
+202204,2022,4,34283,Via de la Plata,989,Seville,37.389,-5.984,Santiago,42.88,-8.546
+202205,2022,5,48254,Via de la Plata,1282,Seville,37.389,-5.984,Santiago,42.88,-8.546
+202206,2022,6,58012,Via de la Plata,1536,Seville,37.389,-5.984,Santiago,42.88,-8.546
+202207,2022,7,67374,Via de la Plata,1613,Seville,37.389,-5.984,Santiago,42.88,-8.546
+202208,2022,8,85842,Via de la Plata,2137,Seville,37.389,-5.984,Santiago,42.88,-8.546
+202209,2022,9,66196,Via de la Plata,1069,Seville,37.389,-5.984,Santiago,42.88,-8.546
+202210,2022,10,51356,Via de la Plata,955,Seville,37.389,-5.984,Santiago,42.88,-8.546
+200401,2004,1,643,Primitive Way,17,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200402,2004,2,1401,Primitive Way,0,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200403,2004,3,3105,Primitive Way,9,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200404,2004,4,15554,Primitive Way,100,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200405,2004,5,16860,Primitive Way,120,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200406,2004,6,19295,Primitive Way,315,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200407,2004,7,31891,Primitive Way,478,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200408,2004,8,45601,Primitive Way,3800,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200409,2004,9,22752,Primitive Way,303,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200410,2004,10,14556,Primitive Way,203,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200411,2004,11,4410,Primitive Way,87,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200412,2004,12,3802,Primitive Way,149,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200501,2005,1,269,Primitive Way,1,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200502,2005,2,565,Primitive Way,5,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200503,2005,3,3121,Primitive Way,86,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200504,2005,4,3307,Primitive Way,32,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200505,2005,5,9310,Primitive Way,78,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200506,2005,6,12619,Primitive Way,113,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200507,2005,7,18804,Primitive Way,311,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200508,2005,8,24831,Primitive Way,349,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200509,2005,9,12168,Primitive Way,161,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200510,2005,10,6873,Primitive Way,49,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200511,2005,11,1388,Primitive Way,6,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200512,2005,12,668,Primitive Way,24,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200601,2006,1,324,Primitive Way,5,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200602,2006,2,351,Primitive Way,0,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200603,2006,3,1096,Primitive Way,8,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200604,2006,4,7451,Primitive Way,70,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200605,2006,5,10147,Primitive Way,128,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200606,2006,6,13011,Primitive Way,108,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200607,2006,7,18720,Primitive Way,328,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200608,2006,8,26183,Primitive Way,761,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200609,2006,9,13470,Primitive Way,240,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200610,2006,10,7700,Primitive Way,109,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200611,2006,11,1755,Primitive Way,36,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200612,2006,12,848,Primitive Way,24,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200701,2007,1,350,Primitive Way,13,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200702,2007,2,665,Primitive Way,5,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200703,2007,3,1680,Primitive Way,14,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200704,2007,4,8115,Primitive Way,176,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200705,2007,5,12924,Primitive Way,257,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200706,2007,6,15182,Primitive Way,240,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200707,2007,7,20156,Primitive Way,569,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200708,2007,8,27289,Primitive Way,902,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200709,2007,9,15282,Primitive Way,351,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200710,2007,10,9443,Primitive Way,121,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200711,2007,11,2496,Primitive Way,82,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200712,2007,12,795,Primitive Way,17,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200801,2008,1,306,Primitive Way,5,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200802,2008,2,703,Primitive Way,10,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200803,2008,3,5327,Primitive Way,199,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200804,2008,4,5648,Primitive Way,62,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200805,2008,5,16001,Primitive Way,263,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200806,2008,6,15904,Primitive Way,274,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200807,2008,7,21066,Primitive Way,575,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200808,2008,8,29996,Primitive Way,798,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200809,2008,9,17378,Primitive Way,412,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200810,2008,10,9878,Primitive Way,180,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200811,2008,11,2309,Primitive Way,58,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200812,2008,12,1085,Primitive Way,17,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200901,2009,1,523,Primitive Way,25,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200902,2009,2,698,Primitive Way,16,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200903,2009,3,1850,Primitive Way,61,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200904,2009,4,10316,Primitive Way,224,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200905,2009,5,16498,Primitive Way,338,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200906,2009,6,19354,Primitive Way,430,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200907,2009,7,26752,Primitive Way,638,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200908,2009,8,35546,Primitive Way,1169,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200909,2009,9,20623,Primitive Way,542,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200910,2009,10,11731,Primitive Way,237,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200911,2009,11,2353,Primitive Way,62,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200912,2009,12,1010,Primitive Way,41,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201001,2010,1,1188,Primitive Way,35,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201002,2010,2,1640,Primitive Way,42,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201003,2010,3,5883,Primitive Way,148,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201004,2010,4,19587,Primitive Way,468,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201005,2010,5,28846,Primitive Way,785,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201006,2010,6,33756,Primitive Way,1009,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201007,2010,7,42466,Primitive Way,1166,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201008,2010,8,61534,Primitive Way,2041,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201009,2010,9,36848,Primitive Way,1003,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201010,2010,10,26598,Primitive Way,793,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201011,2010,11,8075,Primitive Way,300,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201012,2010,12,5967,Primitive Way,253,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201101,2011,1,644,Primitive Way,18,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201102,2011,2,820,Primitive Way,24,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201103,2011,3,3023,Primitive Way,81,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201104,2011,4,14154,Primitive Way,431,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201105,2011,5,19805,Primitive Way,452,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201106,2011,6,25239,Primitive Way,641,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201107,2011,7,30842,Primitive Way,1084,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201108,2011,8,41489,Primitive Way,1509,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201109,2011,9,26023,Primitive Way,876,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201110,2011,10,16243,Primitive Way,418,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201111,2011,11,3591,Primitive Way,111,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201112,2011,12,1498,Primitive Way,69,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201201,2012,1,872,Primitive Way,62,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201202,2012,2,1305,Primitive Way,45,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201203,2012,3,3260,Primitive Way,124,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201204,2012,4,14749,Primitive Way,446,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201205,2012,5,21776,Primitive Way,600,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201206,2012,6,25517,Primitive Way,713,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201207,2012,7,32818,Primitive Way,1168,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201208,2012,8,41096,Primitive Way,1743,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201209,2012,9,27321,Primitive Way,1013,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201210,2012,10,18091,Primitive Way,478,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201211,2012,11,4170,Primitive Way,169,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201212,2012,12,1483,Primitive Way,43,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201301,2013,1,806,Primitive Way,14,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201302,2013,2,1382,Primitive Way,24,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201303,2013,3,7228,Primitive Way,182,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201304,2013,4,11532,Primitive Way,390,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201305,2013,5,25205,Primitive Way,654,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201306,2013,6,29374,Primitive Way,827,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201307,2013,7,36559,Primitive Way,1083,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201308,2013,8,46726,Primitive Way,1855,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201309,2013,9,30894,Primitive Way,1095,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201310,2013,10,19607,Primitive Way,542,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201311,2013,11,4907,Primitive Way,120,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201312,2013,12,1659,Primitive Way,93,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201401,2014,1,906,Primitive Way,58,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201402,2014,2,970,Primitive Way,27,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201403,2014,3,3150,Primitive Way,67,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201404,2014,4,17347,Primitive Way,469,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201405,2014,5,27354,Primitive Way,742,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201406,2014,6,33021,Primitive Way,1072,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201407,2014,7,39581,Primitive Way,1526,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201408,2014,8,51218,Primitive Way,2140,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201409,2014,9,34457,Primitive Way,1358,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201410,2014,10,23205,Primitive Way,646,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201411,2014,11,4803,Primitive Way,133,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201412,2014,12,1870,Primitive Way,82,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201501,2015,1,1217,Primitive Way,15,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201502,2015,2,1544,Primitive Way,24,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201503,2015,3,5080,Primitive Way,217,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201504,2015,4,17721,Primitive Way,700,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201505,2015,5,31076,Primitive Way,1086,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201506,2015,6,35923,Primitive Way,1466,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201507,2015,7,44794,Primitive Way,2050,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201508,2015,8,54794,Primitive Way,2966,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201509,2015,9,37429,Primitive Way,1837,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201510,2015,10,25576,Primitive Way,843,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201511,2015,11,5228,Primitive Way,209,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201512,2015,12,2062,Primitive Way,59,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201601,2016,1,1304,Primitive Way,66,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201602,2016,2,1733,Primitive Way,38,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201603,2016,3,11067,Primitive Way,419,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201604,2016,4,15100,Primitive Way,500,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201605,2016,5,32776,Primitive Way,1228,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201606,2016,6,39070,Primitive Way,1604,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201607,2016,7,45471,Primitive Way,2076,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201608,2016,8,53704,Primitive Way,3035,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201609,2016,9,40149,Primitive Way,1771,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201610,2016,10,28222,Primitive Way,987,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201611,2016,11,6394,Primitive Way,262,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201612,2016,12,2864,Primitive Way,103,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201701,2017,1,1354,Primitive Way,54,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201702,2017,2,1696,Primitive Way,70,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201703,2017,3,5176,Primitive Way,155,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201704,2017,4,26925,Primitive Way,940,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201705,2017,5,35347,Primitive Way,1452,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201706,2017,6,41619,Primitive Way,1929,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201707,2017,7,47470,Primitive Way,2453,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201708,2017,8,57680,Primitive Way,3089,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201709,2017,9,42189,Primitive Way,2022,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201710,2017,10,31341,Primitive Way,1151,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201711,2017,11,7346,Primitive Way,285,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201712,2017,12,2893,Primitive Way,84,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201801,2018,1,1627,Primitive Way,108,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201802,2018,2,2181,Primitive Way,70,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201803,2018,3,11056,Primitive Way,322,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201804,2018,4,22068,Primitive Way,801,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201805,2018,5,40665,Primitive Way,1715,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201806,2018,6,45685,Primitive Way,1958,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201807,2018,7,50867,Primitive Way,2555,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201808,2018,8,60415,Primitive Way,3507,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201809,2018,9,47006,Primitive Way,2211,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201810,2018,10,35602,Primitive Way,1426,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201811,2018,11,7651,Primitive Way,240,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201812,2018,12,2553,Primitive Way,125,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201901,2019,1,1651,Primitive Way,54,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201902,2019,2,2119,Primitive Way,90,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201903,2019,3,7474,Primitive Way,225,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201904,2019,4,31722,Primitive Way,1244,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201905,2019,5,46673,Primitive Way,1911,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201906,2019,6,49058,Primitive Way,2200,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201907,2019,7,53319,Primitive Way,2569,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201908,2019,8,62814,Primitive Way,3563,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201909,2019,9,45653,Primitive Way,2112,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201910,2019,10,36118,Primitive Way,1339,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201911,2019,11,8274,Primitive Way,323,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+201912,2019,12,2710,Primitive Way,85,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+202001,2020,1,2001,Primitive Way,45,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+202002,2020,2,3076,Primitive Way,96,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+202003,2020,3,1948,Primitive Way,80,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+202006,2020,6,12,Primitive Way,1,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+202007,2020,7,9752,Primitive Way,658,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+202008,2020,8,19812,Primitive Way,1422,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+202009,2020,9,10441,Primitive Way,691,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+202010,2020,10,6418,Primitive Way,391,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+202011,2020,11,585,Primitive Way,14,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+202012,2020,12,99,Primitive Way,1,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+202101,2021,1,60,Primitive Way,3,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+202102,2021,2,14,Primitive Way,2,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+202103,2021,3,194,Primitive Way,10,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+202104,2021,4,1024,Primitive Way,62,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+202105,2021,5,4295,Primitive Way,273,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+202106,2021,6,14824,Primitive Way,758,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+202107,2021,7,33963,Primitive Way,2111,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+202108,2021,8,43575,Primitive Way,2661,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+202109,2021,9,37463,Primitive Way,2097,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+202110,2021,10,31170,Primitive Way,1635,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+202111,2021,11,9094,Primitive Way,422,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+202112,2021,12,1193,Primitive Way,48,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+202201,2022,1,1617,Primitive Way,55,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+202202,2022,2,2034,Primitive Way,179,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+202203,2022,3,7389,Primitive Way,286,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+202204,2022,4,34283,Primitive Way,1270,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+202205,2022,5,48254,Primitive Way,2487,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+202206,2022,6,58012,Primitive Way,2487,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+202207,2022,7,67374,Primitive Way,3327,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+202208,2022,8,85842,Primitive Way,5532,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+202209,2022,9,66196,Primitive Way,3055,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+202210,2022,10,51356,Primitive Way,2041,Oviedo,43.361,-5.85,Santiago,42.88,-8.546
+200401,2004,1,643,Portuguese Way,16,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200402,2004,2,1401,Portuguese Way,178,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200403,2004,3,3105,Portuguese Way,411,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200404,2004,4,15554,Portuguese Way,2132,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200405,2004,5,16860,Portuguese Way,1661,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200406,2004,6,19295,Portuguese Way,1181,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200407,2004,7,31891,Portuguese Way,2947,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200408,2004,8,45601,Portuguese Way,3426,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200409,2004,9,22752,Portuguese Way,1767,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200410,2004,10,14556,Portuguese Way,1148,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200411,2004,11,4410,Portuguese Way,379,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200412,2004,12,3802,Portuguese Way,588,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200501,2005,1,269,Portuguese Way,21,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200502,2005,2,565,Portuguese Way,54,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200503,2005,3,3121,Portuguese Way,301,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200504,2005,4,3307,Portuguese Way,406,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200505,2005,5,9310,Portuguese Way,564,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200506,2005,6,12619,Portuguese Way,600,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200507,2005,7,18804,Portuguese Way,962,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200508,2005,8,24831,Portuguese Way,1524,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200509,2005,9,12168,Portuguese Way,578,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200510,2005,10,6873,Portuguese Way,396,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200511,2005,11,1388,Portuguese Way,45,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200512,2005,12,668,Portuguese Way,56,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200601,2006,1,324,Portuguese Way,27,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200602,2006,2,351,Portuguese Way,33,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200603,2006,3,1096,Portuguese Way,60,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200604,2006,4,7451,Portuguese Way,1088,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200605,2006,5,10147,Portuguese Way,636,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200606,2006,6,13011,Portuguese Way,693,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200607,2006,7,18720,Portuguese Way,1301,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200608,2006,8,26183,Portuguese Way,1425,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200609,2006,9,13470,Portuguese Way,685,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200610,2006,10,7700,Portuguese Way,419,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200611,2006,11,1755,Portuguese Way,62,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200612,2006,12,848,Portuguese Way,90,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200701,2007,1,350,Portuguese Way,17,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200702,2007,2,665,Portuguese Way,90,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200703,2007,3,1680,Portuguese Way,126,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200704,2007,4,8115,Portuguese Way,1006,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200705,2007,5,12924,Portuguese Way,858,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200706,2007,6,15182,Portuguese Way,842,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200707,2007,7,20156,Portuguese Way,1501,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200708,2007,8,27289,Portuguese Way,1895,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200709,2007,9,15282,Portuguese Way,1005,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200710,2007,10,9443,Portuguese Way,540,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200711,2007,11,2496,Portuguese Way,217,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200712,2007,12,795,Portuguese Way,43,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200801,2008,1,306,Portuguese Way,28,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200802,2008,2,703,Portuguese Way,97,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200803,2008,3,5327,Portuguese Way,621,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200804,2008,4,5648,Portuguese Way,700,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200805,2008,5,16001,Portuguese Way,1303,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200806,2008,6,15904,Portuguese Way,906,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200807,2008,7,21066,Portuguese Way,1593,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200808,2008,8,29996,Portuguese Way,2368,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200809,2008,9,17378,Portuguese Way,1163,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200810,2008,10,9878,Portuguese Way,514,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200811,2008,11,2309,Portuguese Way,152,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200812,2008,12,1085,Portuguese Way,370,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200901,2009,1,523,Portuguese Way,30,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200902,2009,2,698,Portuguese Way,100,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200903,2009,3,1850,Portuguese Way,161,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200904,2009,4,10316,Portuguese Way,1150,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200905,2009,5,16498,Portuguese Way,1621,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200906,2009,6,19354,Portuguese Way,1505,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200907,2009,7,26752,Portuguese Way,2150,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200908,2009,8,35546,Portuguese Way,2606,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200909,2009,9,20623,Portuguese Way,1500,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200910,2009,10,11731,Portuguese Way,942,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200911,2009,11,2353,Portuguese Way,139,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200912,2009,12,1010,Portuguese Way,157,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201001,2010,1,1188,Portuguese Way,111,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201002,2010,2,1640,Portuguese Way,228,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201003,2010,3,5883,Portuguese Way,850,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201004,2010,4,19587,Portuguese Way,3155,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201005,2010,5,28846,Portuguese Way,3621,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201006,2010,6,33756,Portuguese Way,4250,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201007,2010,7,42466,Portuguese Way,5314,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201008,2010,8,61534,Portuguese Way,7542,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201009,2010,9,36848,Portuguese Way,3890,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201010,2010,10,26598,Portuguese Way,3074,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201011,2010,11,8075,Portuguese Way,1139,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201012,2010,12,5967,Portuguese Way,1080,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201101,2011,1,644,Portuguese Way,60,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201102,2011,2,820,Portuguese Way,88,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201103,2011,3,3023,Portuguese Way,605,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201104,2011,4,14154,Portuguese Way,2374,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201105,2011,5,19805,Portuguese Way,2445,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201106,2011,6,25239,Portuguese Way,3448,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201107,2011,7,30842,Portuguese Way,3014,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201108,2011,8,41489,Portuguese Way,4424,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201109,2011,9,26023,Portuguese Way,3085,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201110,2011,10,16243,Portuguese Way,1948,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201111,2011,11,3591,Portuguese Way,343,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201112,2011,12,1498,Portuguese Way,228,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201201,2012,1,872,Portuguese Way,106,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201202,2012,2,1305,Portuguese Way,251,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201203,2012,3,3260,Portuguese Way,596,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201204,2012,4,14749,Portuguese Way,2705,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201205,2012,5,21776,Portuguese Way,2999,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201206,2012,6,25517,Portuguese Way,3319,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201207,2012,7,32818,Portuguese Way,4241,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201208,2012,8,41096,Portuguese Way,5071,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201209,2012,9,27321,Portuguese Way,3354,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201210,2012,10,18091,Portuguese Way,2265,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201211,2012,11,4170,Portuguese Way,506,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201212,2012,12,1483,Portuguese Way,211,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201301,2013,1,806,Portuguese Way,120,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201302,2013,2,1382,Portuguese Way,258,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201303,2013,3,7228,Portuguese Way,1487,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201304,2013,4,11532,Portuguese Way,2043,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201305,2013,5,25205,Portuguese Way,3441,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201306,2013,6,29374,Portuguese Way,4070,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201307,2013,7,36559,Portuguese Way,4815,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201308,2013,8,46726,Portuguese Way,6403,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201309,2013,9,30894,Portuguese Way,4119,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201310,2013,10,19607,Portuguese Way,2156,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201311,2013,11,4907,Portuguese Way,409,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201312,2013,12,1659,Portuguese Way,229,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201401,2014,1,906,Portuguese Way,136,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201402,2014,2,970,Portuguese Way,114,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201403,2014,3,3150,Portuguese Way,610,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201404,2014,4,17347,Portuguese Way,3552,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201405,2014,5,27354,Portuguese Way,4575,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201406,2014,6,33021,Portuguese Way,4566,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201407,2014,7,39581,Portuguese Way,5496,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201408,2014,8,51218,Portuguese Way,7334,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201409,2014,9,34457,Portuguese Way,5407,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201410,2014,10,23205,Portuguese Way,2827,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201411,2014,11,4803,Portuguese Way,556,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201412,2014,12,1870,Portuguese Way,321,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201501,2015,1,1217,Portuguese Way,215,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201502,2015,2,1544,Portuguese Way,244,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201503,2015,3,5080,Portuguese Way,921,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201504,2015,4,17721,Portuguese Way,3450,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201505,2015,5,31076,Portuguese Way,5780,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201506,2015,6,35923,Portuguese Way,4911,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201507,2015,7,44794,Portuguese Way,7446,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201508,2015,8,54794,Portuguese Way,9209,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201509,2015,9,37429,Portuguese Way,6440,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201510,2015,10,25576,Portuguese Way,3635,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201511,2015,11,5228,Portuguese Way,565,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201512,2015,12,2062,Portuguese Way,322,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201601,2016,1,1304,Portuguese Way,217,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201602,2016,2,1733,Portuguese Way,286,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201603,2016,3,11067,Portuguese Way,2243,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201604,2016,4,15100,Portuguese Way,3315,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201605,2016,5,32776,Portuguese Way,6399,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201606,2016,6,39070,Portuguese Way,6908,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201607,2016,7,45471,Portuguese Way,8082,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201608,2016,8,53704,Portuguese Way,9985,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201609,2016,9,40149,Portuguese Way,8354,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201610,2016,10,28222,Portuguese Way,4941,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201611,2016,11,6394,Portuguese Way,972,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201612,2016,12,2864,Portuguese Way,436,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201701,2017,1,1354,Portuguese Way,293,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201702,2017,2,1696,Portuguese Way,336,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201703,2017,3,5176,Portuguese Way,1472,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201704,2017,4,26925,Portuguese Way,6679,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201705,2017,5,35347,Portuguese Way,8034,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201706,2017,6,41619,Portuguese Way,8363,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201707,2017,7,47470,Portuguese Way,9891,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201708,2017,8,57680,Portuguese Way,13322,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201709,2017,9,42189,Portuguese Way,9533,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201710,2017,10,31341,Portuguese Way,6488,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201711,2017,11,7346,Portuguese Way,1476,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201712,2017,12,2893,Portuguese Way,676,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201801,2018,1,1627,Portuguese Way,311,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201802,2018,2,2181,Portuguese Way,746,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201803,2018,3,11056,Portuguese Way,3070,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201804,2018,4,22068,Portuguese Way,6707,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201805,2018,5,40665,Portuguese Way,10496,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201806,2018,6,45685,Portuguese Way,10312,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201807,2018,7,50867,Portuguese Way,11999,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201808,2018,8,60415,Portuguese Way,13948,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201809,2018,9,47006,Portuguese Way,13048,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201810,2018,10,35602,Portuguese Way,8857,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201811,2018,11,7651,Portuguese Way,1609,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201812,2018,12,2553,Portuguese Way,559,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201901,2019,1,1651,Portuguese Way,449,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201902,2019,2,2119,Portuguese Way,559,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201903,2019,3,7474,Portuguese Way,2583,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201904,2019,4,31722,Portuguese Way,9823,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201905,2019,5,46673,Portuguese Way,13407,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201906,2019,6,49058,Portuguese Way,12273,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201907,2019,7,53319,Portuguese Way,13367,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201908,2019,8,62814,Portuguese Way,16672,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201909,2019,9,45653,Portuguese Way,13214,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201910,2019,10,36118,Portuguese Way,9798,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201911,2019,11,8274,Portuguese Way,1887,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+201912,2019,12,2710,Portuguese Way,617,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+202001,2020,1,2001,Portuguese Way,529,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+202002,2020,2,3076,Portuguese Way,923,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+202003,2020,3,1948,Portuguese Way,565,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+202006,2020,6,12,Portuguese Way,1,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+202007,2020,7,9752,Portuguese Way,2129,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+202008,2020,8,19812,Portuguese Way,4455,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+202009,2020,9,10441,Portuguese Way,2598,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+202010,2020,10,6418,Portuguese Way,1688,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+202011,2020,11,585,Portuguese Way,61,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+202012,2020,12,99,Portuguese Way,39,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+202101,2021,1,60,Portuguese Way,17,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+202102,2021,2,14,Portuguese Way,3,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+202103,2021,3,194,Portuguese Way,24,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+202104,2021,4,1024,Portuguese Way,235,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+202105,2021,5,4295,Portuguese Way,1005,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+202106,2021,6,14824,Portuguese Way,3683,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+202107,2021,7,33963,Portuguese Way,7320,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+202108,2021,8,43575,Portuguese Way,9566,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+202109,2021,9,37463,Portuguese Way,9049,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+202110,2021,10,31170,Portuguese Way,8190,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+202111,2021,11,9094,Portuguese Way,2281,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+202112,2021,12,1193,Portuguese Way,278,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+202201,2022,1,1617,Portuguese Way,392,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+202202,2022,2,2034,Portuguese Way,658,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+202203,2022,3,7389,Portuguese Way,2285,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+202204,2022,4,34283,Portuguese Way,10284,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+202205,2022,5,48254,Portuguese Way,13738,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+202206,2022,6,58012,Portuguese Way,15756,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+202207,2022,7,67374,Portuguese Way,17899,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+202208,2022,8,85842,Portuguese Way,23730,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+202209,2022,9,66196,Portuguese Way,20249,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+202210,2022,10,51356,Portuguese Way,14929,Lisbon,38.722,-9.139,Santiago,42.88,-8.546
+200401,2004,1,643,Northern Way,14,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200402,2004,2,1401,Northern Way,41,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200403,2004,3,3105,Northern Way,103,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200404,2004,4,15554,Northern Way,256,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200405,2004,5,16860,Northern Way,545,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200406,2004,6,19295,Northern Way,740,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200407,2004,7,31891,Northern Way,1891,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200408,2004,8,45601,Northern Way,1962,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200409,2004,9,22752,Northern Way,630,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200410,2004,10,14556,Northern Way,436,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200411,2004,11,4410,Northern Way,146,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200412,2004,12,3802,Northern Way,206,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200501,2005,1,269,Northern Way,8,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200502,2005,2,565,Northern Way,4,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200503,2005,3,3121,Northern Way,118,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200504,2005,4,3307,Northern Way,41,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200505,2005,5,9310,Northern Way,248,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200506,2005,6,12619,Northern Way,376,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200507,2005,7,18804,Northern Way,970,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200508,2005,8,24831,Northern Way,1251,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200509,2005,9,12168,Northern Way,487,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200510,2005,10,6873,Northern Way,205,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200511,2005,11,1388,Northern Way,37,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200512,2005,12,668,Northern Way,35,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200601,2006,1,324,Northern Way,14,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200602,2006,2,351,Northern Way,13,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200603,2006,3,1096,Northern Way,40,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200604,2006,4,7451,Northern Way,291,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200605,2006,5,10147,Northern Way,302,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200606,2006,6,13011,Northern Way,456,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200607,2006,7,18720,Northern Way,1404,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200608,2006,8,26183,Northern Way,1566,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200609,2006,9,13470,Northern Way,703,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200610,2006,10,7700,Northern Way,296,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200611,2006,11,1755,Northern Way,101,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200612,2006,12,848,Northern Way,11,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200701,2007,1,350,Northern Way,15,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200702,2007,2,665,Northern Way,45,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200703,2007,3,1680,Northern Way,58,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200704,2007,4,8115,Northern Way,184,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200705,2007,5,12924,Northern Way,394,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200706,2007,6,15182,Northern Way,588,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200707,2007,7,20156,Northern Way,1401,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200708,2007,8,27289,Northern Way,1813,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200709,2007,9,15282,Northern Way,687,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200710,2007,10,9443,Northern Way,372,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200711,2007,11,2496,Northern Way,102,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200712,2007,12,795,Northern Way,49,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200801,2008,1,306,Northern Way,10,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200802,2008,2,703,Northern Way,12,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200803,2008,3,5327,Northern Way,266,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200804,2008,4,5648,Northern Way,132,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200805,2008,5,16001,Northern Way,555,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200806,2008,6,15904,Northern Way,717,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200807,2008,7,21066,Northern Way,1713,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200808,2008,8,29996,Northern Way,2192,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200809,2008,9,17378,Northern Way,895,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200810,2008,10,9878,Northern Way,366,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200811,2008,11,2309,Northern Way,77,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200812,2008,12,1085,Northern Way,19,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200901,2009,1,523,Northern Way,21,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200902,2009,2,698,Northern Way,17,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200903,2009,3,1850,Northern Way,49,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200904,2009,4,10316,Northern Way,342,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200905,2009,5,16498,Northern Way,645,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200906,2009,6,19354,Northern Way,1058,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200907,2009,7,26752,Northern Way,2216,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200908,2009,8,35546,Northern Way,2627,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200909,2009,9,20623,Northern Way,1275,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200910,2009,10,11731,Northern Way,537,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200911,2009,11,2353,Northern Way,75,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200912,2009,12,1010,Northern Way,37,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201001,2010,1,1188,Northern Way,99,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201002,2010,2,1640,Northern Way,43,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201003,2010,3,5883,Northern Way,278,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201004,2010,4,19587,Northern Way,723,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201005,2010,5,28846,Northern Way,1201,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201006,2010,6,33756,Northern Way,2128,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201007,2010,7,42466,Northern Way,3251,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201008,2010,8,61534,Northern Way,5907,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201009,2010,9,36848,Northern Way,2243,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201010,2010,10,26598,Northern Way,1216,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201011,2010,11,8075,Northern Way,378,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201012,2010,12,5967,Northern Way,196,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201101,2011,1,644,Northern Way,53,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201102,2011,2,820,Northern Way,27,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201103,2011,3,3023,Northern Way,75,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201104,2011,4,14154,Northern Way,511,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201105,2011,5,19805,Northern Way,846,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201106,2011,6,25239,Northern Way,1291,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201107,2011,7,30842,Northern Way,2621,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201108,2011,8,41489,Northern Way,3452,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201109,2011,9,26023,Northern Way,1655,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201110,2011,10,16243,Northern Way,752,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201111,2011,11,3591,Northern Way,153,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201112,2011,12,1498,Northern Way,83,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201201,2012,1,872,Northern Way,18,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201202,2012,2,1305,Northern Way,32,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201203,2012,3,3260,Northern Way,111,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201204,2012,4,14749,Northern Way,603,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201205,2012,5,21776,Northern Way,933,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201206,2012,6,25517,Northern Way,1510,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201207,2012,7,32818,Northern Way,2804,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201208,2012,8,41096,Northern Way,3786,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201209,2012,9,27321,Northern Way,1724,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201210,2012,10,18091,Northern Way,846,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201211,2012,11,4170,Northern Way,200,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201212,2012,12,1483,Northern Way,70,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201301,2013,1,806,Northern Way,36,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201302,2013,2,1382,Northern Way,36,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201303,2013,3,7228,Northern Way,198,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201304,2013,4,11532,Northern Way,466,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201305,2013,5,25205,Northern Way,1172,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201306,2013,6,29374,Northern Way,1533,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201307,2013,7,36559,Northern Way,2941,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201308,2013,8,46726,Northern Way,3867,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201309,2013,9,30894,Northern Way,1795,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201310,2013,10,19607,Northern Way,983,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201311,2013,11,4907,Northern Way,245,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201312,2013,12,1659,Northern Way,42,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201401,2014,1,906,Northern Way,43,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201402,2014,2,970,Northern Way,35,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201403,2014,3,3150,Northern Way,102,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201404,2014,4,17347,Northern Way,589,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201405,2014,5,27354,Northern Way,1206,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201406,2014,6,33021,Northern Way,1781,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201407,2014,7,39581,Northern Way,3189,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201408,2014,8,51218,Northern Way,3939,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201409,2014,9,34457,Northern Way,1918,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201410,2014,10,23205,Northern Way,1872,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201411,2014,11,4803,Northern Way,272,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201412,2014,12,1870,Northern Way,62,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201501,2015,1,1217,Northern Way,18,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201502,2015,2,1544,Northern Way,54,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201503,2015,3,5080,Northern Way,132,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201504,2015,4,17721,Northern Way,665,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201505,2015,5,31076,Northern Way,1298,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201506,2015,6,35923,Northern Way,1877,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201507,2015,7,44794,Northern Way,3549,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201508,2015,8,54794,Northern Way,4458,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201509,2015,9,37429,Northern Way,2159,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201510,2015,10,25576,Northern Way,1207,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201511,2015,11,5228,Northern Way,263,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201512,2015,12,2062,Northern Way,128,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201601,2016,1,1304,Northern Way,45,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201602,2016,2,1733,Northern Way,40,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201603,2016,3,11067,Northern Way,316,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201604,2016,4,15100,Northern Way,533,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201605,2016,5,32776,Northern Way,1480,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201606,2016,6,39070,Northern Way,2268,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201607,2016,7,45471,Northern Way,3745,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201608,2016,8,53704,Northern Way,4416,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201609,2016,9,40149,Northern Way,2397,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201610,2016,10,28222,Northern Way,1567,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201611,2016,11,6394,Northern Way,317,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201612,2016,12,2864,Northern Way,165,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201701,2017,1,1354,Northern Way,52,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201702,2017,2,1696,Northern Way,50,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201703,2017,3,5176,Northern Way,182,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201704,2017,4,26925,Northern Way,900,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201705,2017,5,35347,Northern Way,1696,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201706,2017,6,41619,Northern Way,2323,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201707,2017,7,47470,Northern Way,3816,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201708,2017,8,57680,Northern Way,4343,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201709,2017,9,42189,Northern Way,2378,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201710,2017,10,31341,Northern Way,1570,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201711,2017,11,7346,Northern Way,429,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201712,2017,12,2893,Northern Way,97,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201801,2018,1,1627,Northern Way,58,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201802,2018,2,2181,Northern Way,66,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201803,2018,3,11056,Northern Way,350,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201804,2018,4,22068,Northern Way,736,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201805,2018,5,40665,Northern Way,1728,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201806,2018,6,45685,Northern Way,2631,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201807,2018,7,50867,Northern Way,3963,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201808,2018,8,60415,Northern Way,4762,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201809,2018,9,47006,Northern Way,2548,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201810,2018,10,35602,Northern Way,1672,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201811,2018,11,7651,Northern Way,425,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201812,2018,12,2553,Northern Way,101,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201901,2019,1,1651,Northern Way,73,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201902,2019,2,2119,Northern Way,54,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201903,2019,3,7474,Northern Way,165,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201904,2019,4,31722,Northern Way,914,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201905,2019,5,46673,Northern Way,1992,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201906,2019,6,49058,Northern Way,2768,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201907,2019,7,53319,Northern Way,4326,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201908,2019,8,62814,Northern Way,4109,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201909,2019,9,45653,Northern Way,2335,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201910,2019,10,36118,Northern Way,1747,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201911,2019,11,8274,Northern Way,398,Irun,43.339,-1.789,Santiago,42.88,-8.546
+201912,2019,12,2710,Northern Way,140,Irun,43.339,-1.789,Santiago,42.88,-8.546
+202001,2020,1,2001,Northern Way,101,Irun,43.339,-1.789,Santiago,42.88,-8.546
+202002,2020,2,3076,Northern Way,60,Irun,43.339,-1.789,Santiago,42.88,-8.546
+202003,2020,3,1948,Northern Way,51,Irun,43.339,-1.789,Santiago,42.88,-8.546
+202006,2020,6,12,Northern Way,1,Irun,43.339,-1.789,Santiago,42.88,-8.546
+202007,2020,7,9752,Northern Way,600,Irun,43.339,-1.789,Santiago,42.88,-8.546
+202008,2020,8,19812,Northern Way,1803,Irun,43.339,-1.789,Santiago,42.88,-8.546
+202009,2020,9,10441,Northern Way,743,Irun,43.339,-1.789,Santiago,42.88,-8.546
+202010,2020,10,6418,Northern Way,393,Irun,43.339,-1.789,Santiago,42.88,-8.546
+202011,2020,11,585,Northern Way,51,Irun,43.339,-1.789,Santiago,42.88,-8.546
+202012,2020,12,99,Northern Way,1,Irun,43.339,-1.789,Santiago,42.88,-8.546
+202101,2021,1,60,Northern Way,3,Irun,43.339,-1.789,Santiago,42.88,-8.546
+202102,2021,2,14,Northern Way,0,Irun,43.339,-1.789,Santiago,42.88,-8.546
+202103,2021,3,194,Northern Way,0,Irun,43.339,-1.789,Santiago,42.88,-8.546
+202104,2021,4,1024,Northern Way,28,Irun,43.339,-1.789,Santiago,42.88,-8.546
+202105,2021,5,4295,Northern Way,168,Irun,43.339,-1.789,Santiago,42.88,-8.546
+202106,2021,6,14824,Northern Way,721,Irun,43.339,-1.789,Santiago,42.88,-8.546
+202107,2021,7,33963,Northern Way,2148,Irun,43.339,-1.789,Santiago,42.88,-8.546
+202108,2021,8,43575,Northern Way,2613,Irun,43.339,-1.789,Santiago,42.88,-8.546
+202109,2021,9,37463,Northern Way,1946,Irun,43.339,-1.789,Santiago,42.88,-8.546
+202110,2021,10,31170,Northern Way,1424,Irun,43.339,-1.789,Santiago,42.88,-8.546
+202111,2021,11,9094,Northern Way,391,Irun,43.339,-1.789,Santiago,42.88,-8.546
+202112,2021,12,1193,Northern Way,40,Irun,43.339,-1.789,Santiago,42.88,-8.546
+202201,2022,1,1617,Northern Way,49,Irun,43.339,-1.789,Santiago,42.88,-8.546
+202202,2022,2,2034,Northern Way,62,Irun,43.339,-1.789,Santiago,42.88,-8.546
+202203,2022,3,7389,Northern Way,192,Irun,43.339,-1.789,Santiago,42.88,-8.546
+202204,2022,4,34283,Northern Way,950,Irun,43.339,-1.789,Santiago,42.88,-8.546
+202205,2022,5,48254,Northern Way,1736,Irun,43.339,-1.789,Santiago,42.88,-8.546
+202206,2022,6,58012,Northern Way,2664,Irun,43.339,-1.789,Santiago,42.88,-8.546
+202207,2022,7,67374,Northern Way,4258,Irun,43.339,-1.789,Santiago,42.88,-8.546
+202208,2022,8,85842,Northern Way,4756,Irun,43.339,-1.789,Santiago,42.88,-8.546
+202209,2022,9,66196,Northern Way,2822,Irun,43.339,-1.789,Santiago,42.88,-8.546
+202210,2022,10,51356,Northern Way,2322,Irun,43.339,-1.789,Santiago,42.88,-8.546
+200401,2004,1,643,English Way,5,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200402,2004,2,1401,English Way,34,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200403,2004,3,3105,English Way,141,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200404,2004,4,15554,English Way,290,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200405,2004,5,16860,English Way,326,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200406,2004,6,19295,English Way,258,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200407,2004,7,31891,English Way,364,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200408,2004,8,45601,English Way,1045,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200409,2004,9,22752,English Way,324,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200410,2004,10,14556,English Way,107,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200411,2004,11,4410,English Way,98,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200412,2004,12,3802,English Way,100,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200501,2005,1,269,English Way,3,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200502,2005,2,565,English Way,3,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200503,2005,3,3121,English Way,57,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200504,2005,4,3307,English Way,16,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200505,2005,5,9310,English Way,36,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200506,2005,6,12619,English Way,45,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200507,2005,7,18804,English Way,171,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200508,2005,8,24831,English Way,135,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200509,2005,9,12168,English Way,75,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200510,2005,10,6873,English Way,25,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200511,2005,11,1388,English Way,44,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200512,2005,12,668,English Way,41,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200601,2006,1,324,English Way,2,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200602,2006,2,351,English Way,8,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200603,2006,3,1096,English Way,5,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200604,2006,4,7451,English Way,82,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200605,2006,5,10147,English Way,32,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200606,2006,6,13011,English Way,73,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200607,2006,7,18720,English Way,211,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200608,2006,8,26183,English Way,242,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200609,2006,9,13470,English Way,52,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200610,2006,10,7700,English Way,58,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200611,2006,11,1755,English Way,30,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200612,2006,12,848,English Way,17,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200701,2007,1,350,English Way,0,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200702,2007,2,665,English Way,5,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200703,2007,3,1680,English Way,22,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200704,2007,4,8115,English Way,90,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200705,2007,5,12924,English Way,105,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200706,2007,6,15182,English Way,116,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200707,2007,7,20156,English Way,253,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200708,2007,8,27289,English Way,269,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200709,2007,9,15282,English Way,108,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200710,2007,10,9443,English Way,38,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200711,2007,11,2496,English Way,55,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200712,2007,12,795,English Way,25,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200801,2008,1,306,English Way,1,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200802,2008,2,703,English Way,4,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200803,2008,3,5327,English Way,78,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200804,2008,4,5648,English Way,77,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200805,2008,5,16001,English Way,128,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200806,2008,6,15904,English Way,78,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200807,2008,7,21066,English Way,341,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200808,2008,8,29996,English Way,338,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200809,2008,9,17378,English Way,181,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200810,2008,10,9878,English Way,190,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200811,2008,11,2309,English Way,27,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200812,2008,12,1085,English Way,8,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200901,2009,1,523,English Way,5,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200902,2009,2,698,English Way,11,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200903,2009,3,1850,English Way,16,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200904,2009,4,10316,English Way,122,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200905,2009,5,16498,English Way,151,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200906,2009,6,19354,English Way,191,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200907,2009,7,26752,English Way,412,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200908,2009,8,35546,English Way,592,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200909,2009,9,20623,English Way,184,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200910,2009,10,11731,English Way,106,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200911,2009,11,2353,English Way,21,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200912,2009,12,1010,English Way,9,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201001,2010,1,1188,English Way,10,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201002,2010,2,1640,English Way,26,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201003,2010,3,5883,English Way,180,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201004,2010,4,19587,English Way,435,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201005,2010,5,28846,English Way,499,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201006,2010,6,33756,English Way,784,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201007,2010,7,42466,English Way,1036,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201008,2010,8,61534,English Way,1858,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201009,2010,9,36848,English Way,562,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201010,2010,10,26598,English Way,615,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201011,2010,11,8075,English Way,178,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201012,2010,12,5967,English Way,279,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201101,2011,1,644,English Way,7,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201102,2011,2,820,English Way,12,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201103,2011,3,3023,English Way,41,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201104,2011,4,14154,English Way,209,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201105,2011,5,19805,English Way,254,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201106,2011,6,25239,English Way,316,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201107,2011,7,30842,English Way,524,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201108,2011,8,41489,English Way,749,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201109,2011,9,26023,English Way,342,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201110,2011,10,16243,English Way,186,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201111,2011,11,3591,English Way,42,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201112,2011,12,1498,English Way,39,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201201,2012,1,872,English Way,23,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201202,2012,2,1305,English Way,23,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201203,2012,3,3260,English Way,51,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201204,2012,4,14749,English Way,327,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201205,2012,5,21776,English Way,351,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201206,2012,6,25517,English Way,317,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201207,2012,7,32818,English Way,655,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201208,2012,8,41096,English Way,1095,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201209,2012,9,27321,English Way,410,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201210,2012,10,18091,English Way,223,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201211,2012,11,4170,English Way,44,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201212,2012,12,1483,English Way,58,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201301,2013,1,806,English Way,21,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201302,2013,2,1382,English Way,24,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201303,2013,3,7228,English Way,316,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201304,2013,4,11532,English Way,223,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201305,2013,5,25205,English Way,427,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201306,2013,6,29374,English Way,465,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201307,2013,7,36559,English Way,830,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201308,2013,8,46726,English Way,1190,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201309,2013,9,30894,English Way,570,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201310,2013,10,19607,English Way,244,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201311,2013,11,4907,English Way,66,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201312,2013,12,1659,English Way,28,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201401,2014,1,906,English Way,32,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201402,2014,2,970,English Way,22,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201403,2014,3,3150,English Way,121,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201404,2014,4,17347,English Way,509,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201405,2014,5,27354,English Way,506,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201406,2014,6,33021,English Way,820,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201407,2014,7,39581,English Way,1508,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201408,2014,8,51218,English Way,2019,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201409,2014,9,34457,English Way,962,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201410,2014,10,23205,English Way,487,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201411,2014,11,4803,English Way,116,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201412,2014,12,1870,English Way,92,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201501,2015,1,1217,English Way,51,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201502,2015,2,1544,English Way,23,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201503,2015,3,5080,English Way,148,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201504,2015,4,17721,English Way,670,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201505,2015,5,31076,English Way,779,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201506,2015,6,35923,English Way,1060,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201507,2015,7,44794,English Way,1812,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201508,2015,8,54794,English Way,2584,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201509,2015,9,37429,English Way,1265,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201510,2015,10,25576,English Way,580,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201511,2015,11,5228,English Way,167,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201512,2015,12,2062,English Way,106,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201601,2016,1,1304,English Way,60,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201602,2016,2,1733,English Way,117,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201603,2016,3,11067,English Way,507,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201604,2016,4,15100,English Way,470,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201605,2016,5,32776,English Way,978,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201606,2016,6,39070,English Way,1176,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201607,2016,7,45471,English Way,1984,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201608,2016,8,53704,English Way,2193,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201609,2016,9,40149,English Way,1253,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201610,2016,10,28222,English Way,682,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201611,2016,11,6394,English Way,174,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201612,2016,12,2864,English Way,109,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201701,2017,1,1354,English Way,63,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201702,2017,2,1696,English Way,47,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201703,2017,3,5176,English Way,173,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201704,2017,4,26925,English Way,1075,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201705,2017,5,35347,English Way,1115,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201706,2017,6,41619,English Way,1280,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201707,2017,7,47470,English Way,2232,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201708,2017,8,57680,English Way,2557,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201709,2017,9,42189,English Way,1428,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201710,2017,10,31341,English Way,1033,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201711,2017,11,7346,English Way,201,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201712,2017,12,2893,English Way,117,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201801,2018,1,1627,English Way,76,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201802,2018,2,2181,English Way,74,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201803,2018,3,11056,English Way,442,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201804,2018,4,22068,English Way,925,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201805,2018,5,40665,English Way,0,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201806,2018,6,45685,English Way,1737,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201807,2018,7,50867,English Way,2958,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201808,2018,8,60415,English Way,2998,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201809,2018,9,47006,English Way,1783,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201810,2018,10,35602,English Way,1282,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201811,2018,11,7651,English Way,265,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201812,2018,12,2553,English Way,160,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201901,2019,1,1651,English Way,89,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201902,2019,2,2119,English Way,101,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201903,2019,3,7474,English Way,382,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201904,2019,4,31722,English Way,1435,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201905,2019,5,46673,English Way,1742,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201906,2019,6,49058,English Way,1929,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201907,2019,7,53319,English Way,2754,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201908,2019,8,62814,English Way,3660,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201909,2019,9,45653,English Way,1991,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201910,2019,10,36118,English Way,1242,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201911,2019,11,8274,English Way,319,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+201912,2019,12,2710,English Way,138,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+202001,2020,1,2001,English Way,137,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+202002,2020,2,3076,English Way,179,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+202003,2020,3,1948,English Way,108,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+202006,2020,6,12,English Way,4,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+202007,2020,7,9752,English Way,708,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+202008,2020,8,19812,English Way,972,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+202009,2020,9,10441,English Way,547,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+202010,2020,10,6418,English Way,268,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+202011,2020,11,585,English Way,8,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+202012,2020,12,99,English Way,1,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+202101,2021,1,60,English Way,5,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+202102,2021,2,14,English Way,0,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+202103,2021,3,194,English Way,29,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+202104,2021,4,1024,English Way,78,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+202105,2021,5,4295,English Way,346,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+202106,2021,6,14824,English Way,730,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+202107,2021,7,33963,English Way,2155,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+202108,2021,8,43575,English Way,3052,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+202109,2021,9,37463,English Way,2089,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+202110,2021,10,31170,English Way,1620,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+202111,2021,11,9094,English Way,685,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+202112,2021,12,1193,English Way,66,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+202201,2022,1,1617,English Way,115,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+202202,2022,2,2034,English Way,117,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+202203,2022,3,7389,English Way,373,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+202204,2022,4,34283,English Way,1763,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+202205,2022,5,48254,English Way,2388,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+202206,2022,6,58012,English Way,2502,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+202207,2022,7,67374,English Way,3905,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+202208,2022,8,85842,English Way,6590,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+202209,2022,9,66196,English Way,3572,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+202210,2022,10,51356,English Way,2030,Ferrol,43.483,-8.233,Santiago,42.88,-8.546
+200401,2004,1,643,Other Ways,0,Other,42.0,-4.0,Santiago,42.88,-8.546
+200402,2004,2,1401,Other Ways,4,Other,42.0,-4.0,Santiago,42.88,-8.546
+200403,2004,3,3105,Other Ways,0,Other,42.0,-4.0,Santiago,42.88,-8.546
+200404,2004,4,15554,Other Ways,17,Other,42.0,-4.0,Santiago,42.88,-8.546
+200405,2004,5,16860,Other Ways,18,Other,42.0,-4.0,Santiago,42.88,-8.546
+200406,2004,6,19295,Other Ways,15,Other,42.0,-4.0,Santiago,42.88,-8.546
+200407,2004,7,31891,Other Ways,29,Other,42.0,-4.0,Santiago,42.88,-8.546
+200408,2004,8,45601,Other Ways,27,Other,42.0,-4.0,Santiago,42.88,-8.546
+200409,2004,9,22752,Other Ways,22,Other,42.0,-4.0,Santiago,42.88,-8.546
+200410,2004,10,14556,Other Ways,12,Other,42.0,-4.0,Santiago,42.88,-8.546
+200411,2004,11,4410,Other Ways,0,Other,42.0,-4.0,Santiago,42.88,-8.546
+200412,2004,12,3802,Other Ways,0,Other,42.0,-4.0,Santiago,42.88,-8.546
+200501,2005,1,269,Other Ways,0,Other,42.0,-4.0,Santiago,42.88,-8.546
+200502,2005,2,565,Other Ways,1,Other,42.0,-4.0,Santiago,42.88,-8.546
+200503,2005,3,3121,Other Ways,2,Other,42.0,-4.0,Santiago,42.88,-8.546
+200504,2005,4,3307,Other Ways,2,Other,42.0,-4.0,Santiago,42.88,-8.546
+200505,2005,5,9310,Other Ways,6,Other,42.0,-4.0,Santiago,42.88,-8.546
+200506,2005,6,12619,Other Ways,8,Other,42.0,-4.0,Santiago,42.88,-8.546
+200507,2005,7,18804,Other Ways,36,Other,42.0,-4.0,Santiago,42.88,-8.546
+200508,2005,8,24831,Other Ways,33,Other,42.0,-4.0,Santiago,42.88,-8.546
+200509,2005,9,12168,Other Ways,6,Other,42.0,-4.0,Santiago,42.88,-8.546
+200510,2005,10,6873,Other Ways,8,Other,42.0,-4.0,Santiago,42.88,-8.546
+200511,2005,11,1388,Other Ways,9,Other,42.0,-4.0,Santiago,42.88,-8.546
+200512,2005,12,668,Other Ways,1,Other,42.0,-4.0,Santiago,42.88,-8.546
+200601,2006,1,324,Other Ways,0,Other,42.0,-4.0,Santiago,42.88,-8.546
+200602,2006,2,351,Other Ways,0,Other,42.0,-4.0,Santiago,42.88,-8.546
+200603,2006,3,1096,Other Ways,1,Other,42.0,-4.0,Santiago,42.88,-8.546
+200604,2006,4,7451,Other Ways,11,Other,42.0,-4.0,Santiago,42.88,-8.546
+200605,2006,5,10147,Other Ways,15,Other,42.0,-4.0,Santiago,42.88,-8.546
+200606,2006,6,13011,Other Ways,15,Other,42.0,-4.0,Santiago,42.88,-8.546
+200607,2006,7,18720,Other Ways,12,Other,42.0,-4.0,Santiago,42.88,-8.546
+200608,2006,8,26183,Other Ways,29,Other,42.0,-4.0,Santiago,42.88,-8.546
+200609,2006,9,13470,Other Ways,5,Other,42.0,-4.0,Santiago,42.88,-8.546
+200610,2006,10,7700,Other Ways,5,Other,42.0,-4.0,Santiago,42.88,-8.546
+200611,2006,11,1755,Other Ways,0,Other,42.0,-4.0,Santiago,42.88,-8.546
+200612,2006,12,848,Other Ways,2,Other,42.0,-4.0,Santiago,42.88,-8.546
+200701,2007,1,350,Other Ways,0,Other,42.0,-4.0,Santiago,42.88,-8.546
+200702,2007,2,665,Other Ways,1,Other,42.0,-4.0,Santiago,42.88,-8.546
+200703,2007,3,1680,Other Ways,14,Other,42.0,-4.0,Santiago,42.88,-8.546
+200704,2007,4,8115,Other Ways,10,Other,42.0,-4.0,Santiago,42.88,-8.546
+200705,2007,5,12924,Other Ways,21,Other,42.0,-4.0,Santiago,42.88,-8.546
+200706,2007,6,15182,Other Ways,18,Other,42.0,-4.0,Santiago,42.88,-8.546
+200707,2007,7,20156,Other Ways,20,Other,42.0,-4.0,Santiago,42.88,-8.546
+200708,2007,8,27289,Other Ways,28,Other,42.0,-4.0,Santiago,42.88,-8.546
+200709,2007,9,15282,Other Ways,27,Other,42.0,-4.0,Santiago,42.88,-8.546
+200710,2007,10,9443,Other Ways,6,Other,42.0,-4.0,Santiago,42.88,-8.546
+200711,2007,11,2496,Other Ways,2,Other,42.0,-4.0,Santiago,42.88,-8.546
+200712,2007,12,795,Other Ways,0,Other,42.0,-4.0,Santiago,42.88,-8.546
+200801,2008,1,306,Other Ways,2,Other,42.0,-4.0,Santiago,42.88,-8.546
+200802,2008,2,703,Other Ways,0,Other,42.0,-4.0,Santiago,42.88,-8.546
+200803,2008,3,5327,Other Ways,41,Other,42.0,-4.0,Santiago,42.88,-8.546
+200804,2008,4,5648,Other Ways,5,Other,42.0,-4.0,Santiago,42.88,-8.546
+200805,2008,5,16001,Other Ways,28,Other,42.0,-4.0,Santiago,42.88,-8.546
+200806,2008,6,15904,Other Ways,24,Other,42.0,-4.0,Santiago,42.88,-8.546
+200807,2008,7,21066,Other Ways,14,Other,42.0,-4.0,Santiago,42.88,-8.546
+200808,2008,8,29996,Other Ways,81,Other,42.0,-4.0,Santiago,42.88,-8.546
+200809,2008,9,17378,Other Ways,16,Other,42.0,-4.0,Santiago,42.88,-8.546
+200810,2008,10,9878,Other Ways,13,Other,42.0,-4.0,Santiago,42.88,-8.546
+200811,2008,11,2309,Other Ways,4,Other,42.0,-4.0,Santiago,42.88,-8.546
+200812,2008,12,1085,Other Ways,1,Other,42.0,-4.0,Santiago,42.88,-8.546
+200901,2009,1,523,Other Ways,1,Other,42.0,-4.0,Santiago,42.88,-8.546
+200902,2009,2,698,Other Ways,3,Other,42.0,-4.0,Santiago,42.88,-8.546
+200903,2009,3,1850,Other Ways,10,Other,42.0,-4.0,Santiago,42.88,-8.546
+200904,2009,4,10316,Other Ways,12,Other,42.0,-4.0,Santiago,42.88,-8.546
+200905,2009,5,16498,Other Ways,46,Other,42.0,-4.0,Santiago,42.88,-8.546
+200906,2009,6,19354,Other Ways,26,Other,42.0,-4.0,Santiago,42.88,-8.546
+200907,2009,7,26752,Other Ways,33,Other,42.0,-4.0,Santiago,42.88,-8.546
+200908,2009,8,35546,Other Ways,45,Other,42.0,-4.0,Santiago,42.88,-8.546
+200909,2009,9,20623,Other Ways,23,Other,42.0,-4.0,Santiago,42.88,-8.546
+200910,2009,10,11731,Other Ways,15,Other,42.0,-4.0,Santiago,42.88,-8.546
+200911,2009,11,2353,Other Ways,10,Other,42.0,-4.0,Santiago,42.88,-8.546
+200912,2009,12,1010,Other Ways,3,Other,42.0,-4.0,Santiago,42.88,-8.546
+201001,2010,1,1188,Other Ways,1,Other,42.0,-4.0,Santiago,42.88,-8.546
+201002,2010,2,1640,Other Ways,1,Other,42.0,-4.0,Santiago,42.88,-8.546
+201003,2010,3,5883,Other Ways,15,Other,42.0,-4.0,Santiago,42.88,-8.546
+201004,2010,4,19587,Other Ways,21,Other,42.0,-4.0,Santiago,42.88,-8.546
+201005,2010,5,28846,Other Ways,101,Other,42.0,-4.0,Santiago,42.88,-8.546
+201006,2010,6,33756,Other Ways,137,Other,42.0,-4.0,Santiago,42.88,-8.546
+201007,2010,7,42466,Other Ways,75,Other,42.0,-4.0,Santiago,42.88,-8.546
+201008,2010,8,61534,Other Ways,146,Other,42.0,-4.0,Santiago,42.88,-8.546
+201009,2010,9,36848,Other Ways,46,Other,42.0,-4.0,Santiago,42.88,-8.546
+201010,2010,10,26598,Other Ways,35,Other,42.0,-4.0,Santiago,42.88,-8.546
+201011,2010,11,8075,Other Ways,53,Other,42.0,-4.0,Santiago,42.88,-8.546
+201012,2010,12,5967,Other Ways,7,Other,42.0,-4.0,Santiago,42.88,-8.546
+201101,2011,1,644,Other Ways,0,Other,42.0,-4.0,Santiago,42.88,-8.546
+201102,2011,2,820,Other Ways,3,Other,42.0,-4.0,Santiago,42.88,-8.546
+201103,2011,3,3023,Other Ways,18,Other,42.0,-4.0,Santiago,42.88,-8.546
+201104,2011,4,14154,Other Ways,42,Other,42.0,-4.0,Santiago,42.88,-8.546
+201105,2011,5,19805,Other Ways,49,Other,42.0,-4.0,Santiago,42.88,-8.546
+201106,2011,6,25239,Other Ways,43,Other,42.0,-4.0,Santiago,42.88,-8.546
+201107,2011,7,30842,Other Ways,51,Other,42.0,-4.0,Santiago,42.88,-8.546
+201108,2011,8,41489,Other Ways,71,Other,42.0,-4.0,Santiago,42.88,-8.546
+201109,2011,9,26023,Other Ways,53,Other,42.0,-4.0,Santiago,42.88,-8.546
+201110,2011,10,16243,Other Ways,46,Other,42.0,-4.0,Santiago,42.88,-8.546
+201111,2011,11,3591,Other Ways,13,Other,42.0,-4.0,Santiago,42.88,-8.546
+201112,2011,12,1498,Other Ways,7,Other,42.0,-4.0,Santiago,42.88,-8.546
+201201,2012,1,872,Other Ways,1,Other,42.0,-4.0,Santiago,42.88,-8.546
+201202,2012,2,1305,Other Ways,3,Other,42.0,-4.0,Santiago,42.88,-8.546
+201203,2012,3,3260,Other Ways,5,Other,42.0,-4.0,Santiago,42.88,-8.546
+201204,2012,4,14749,Other Ways,28,Other,42.0,-4.0,Santiago,42.88,-8.546
+201205,2012,5,21776,Other Ways,61,Other,42.0,-4.0,Santiago,42.88,-8.546
+201206,2012,6,25517,Other Ways,77,Other,42.0,-4.0,Santiago,42.88,-8.546
+201207,2012,7,32818,Other Ways,86,Other,42.0,-4.0,Santiago,42.88,-8.546
+201208,2012,8,41096,Other Ways,92,Other,42.0,-4.0,Santiago,42.88,-8.546
+201209,2012,9,27321,Other Ways,52,Other,42.0,-4.0,Santiago,42.88,-8.546
+201210,2012,10,18091,Other Ways,27,Other,42.0,-4.0,Santiago,42.88,-8.546
+201211,2012,11,4170,Other Ways,14,Other,42.0,-4.0,Santiago,42.88,-8.546
+201212,2012,12,1483,Other Ways,9,Other,42.0,-4.0,Santiago,42.88,-8.546
+201301,2013,1,806,Other Ways,3,Other,42.0,-4.0,Santiago,42.88,-8.546
+201302,2013,2,1382,Other Ways,3,Other,42.0,-4.0,Santiago,42.88,-8.546
+201303,2013,3,7228,Other Ways,11,Other,42.0,-4.0,Santiago,42.88,-8.546
+201304,2013,4,11532,Other Ways,10,Other,42.0,-4.0,Santiago,42.88,-8.546
+201305,2013,5,25205,Other Ways,69,Other,42.0,-4.0,Santiago,42.88,-8.546
+201306,2013,6,29374,Other Ways,56,Other,42.0,-4.0,Santiago,42.88,-8.546
+201307,2013,7,36559,Other Ways,100,Other,42.0,-4.0,Santiago,42.88,-8.546
+201308,2013,8,46726,Other Ways,48,Other,42.0,-4.0,Santiago,42.88,-8.546
+201309,2013,9,30894,Other Ways,67,Other,42.0,-4.0,Santiago,42.88,-8.546
+201310,2013,10,19607,Other Ways,36,Other,42.0,-4.0,Santiago,42.88,-8.546
+201311,2013,11,4907,Other Ways,32,Other,42.0,-4.0,Santiago,42.88,-8.546
+201312,2013,12,1659,Other Ways,9,Other,42.0,-4.0,Santiago,42.88,-8.546
+201401,2014,1,906,Other Ways,2,Other,42.0,-4.0,Santiago,42.88,-8.546
+201402,2014,2,970,Other Ways,0,Other,42.0,-4.0,Santiago,42.88,-8.546
+201403,2014,3,3150,Other Ways,8,Other,42.0,-4.0,Santiago,42.88,-8.546
+201404,2014,4,17347,Other Ways,17,Other,42.0,-4.0,Santiago,42.88,-8.546
+201405,2014,5,27354,Other Ways,120,Other,42.0,-4.0,Santiago,42.88,-8.546
+201406,2014,6,33021,Other Ways,76,Other,42.0,-4.0,Santiago,42.88,-8.546
+201407,2014,7,39581,Other Ways,74,Other,42.0,-4.0,Santiago,42.88,-8.546
+201408,2014,8,51218,Other Ways,226,Other,42.0,-4.0,Santiago,42.88,-8.546
+201409,2014,9,34457,Other Ways,72,Other,42.0,-4.0,Santiago,42.88,-8.546
+201410,2014,10,23205,Other Ways,66,Other,42.0,-4.0,Santiago,42.88,-8.546
+201411,2014,11,4803,Other Ways,43,Other,42.0,-4.0,Santiago,42.88,-8.546
+201412,2014,12,1870,Other Ways,12,Other,42.0,-4.0,Santiago,42.88,-8.546
+201501,2015,1,1217,Other Ways,17,Other,42.0,-4.0,Santiago,42.88,-8.546
+201502,2015,2,1544,Other Ways,3,Other,42.0,-4.0,Santiago,42.88,-8.546
+201503,2015,3,5080,Other Ways,12,Other,42.0,-4.0,Santiago,42.88,-8.546
+201504,2015,4,17721,Other Ways,27,Other,42.0,-4.0,Santiago,42.88,-8.546
+201505,2015,5,31076,Other Ways,75,Other,42.0,-4.0,Santiago,42.88,-8.546
+201506,2015,6,35923,Other Ways,79,Other,42.0,-4.0,Santiago,42.88,-8.546
+201507,2015,7,44794,Other Ways,70,Other,42.0,-4.0,Santiago,42.88,-8.546
+201508,2015,8,54794,Other Ways,132,Other,42.0,-4.0,Santiago,42.88,-8.546
+201509,2015,9,37429,Other Ways,62,Other,42.0,-4.0,Santiago,42.88,-8.546
+201510,2015,10,25576,Other Ways,59,Other,42.0,-4.0,Santiago,42.88,-8.546
+201511,2015,11,5228,Other Ways,27,Other,42.0,-4.0,Santiago,42.88,-8.546
+201512,2015,12,2062,Other Ways,16,Other,42.0,-4.0,Santiago,42.88,-8.546
+201601,2016,1,1304,Other Ways,3,Other,42.0,-4.0,Santiago,42.88,-8.546
+201602,2016,2,1733,Other Ways,12,Other,42.0,-4.0,Santiago,42.88,-8.546
+201603,2016,3,11067,Other Ways,29,Other,42.0,-4.0,Santiago,42.88,-8.546
+201604,2016,4,15100,Other Ways,19,Other,42.0,-4.0,Santiago,42.88,-8.546
+201605,2016,5,32776,Other Ways,72,Other,42.0,-4.0,Santiago,42.88,-8.546
+201606,2016,6,39070,Other Ways,109,Other,42.0,-4.0,Santiago,42.88,-8.546
+201607,2016,7,45471,Other Ways,148,Other,42.0,-4.0,Santiago,42.88,-8.546
+201608,2016,8,53704,Other Ways,163,Other,42.0,-4.0,Santiago,42.88,-8.546
+201609,2016,9,40149,Other Ways,65,Other,42.0,-4.0,Santiago,42.88,-8.546
+201610,2016,10,28222,Other Ways,53,Other,42.0,-4.0,Santiago,42.88,-8.546
+201611,2016,11,6394,Other Ways,40,Other,42.0,-4.0,Santiago,42.88,-8.546
+201612,2016,12,2864,Other Ways,10,Other,42.0,-4.0,Santiago,42.88,-8.546
+201701,2017,1,1354,Other Ways,15,Other,42.0,-4.0,Santiago,42.88,-8.546
+201702,2017,2,1696,Other Ways,12,Other,42.0,-4.0,Santiago,42.88,-8.546
+201703,2017,3,5176,Other Ways,11,Other,42.0,-4.0,Santiago,42.88,-8.546
+201704,2017,4,26925,Other Ways,50,Other,42.0,-4.0,Santiago,42.88,-8.546
+201705,2017,5,35347,Other Ways,121,Other,42.0,-4.0,Santiago,42.88,-8.546
+201706,2017,6,41619,Other Ways,263,Other,42.0,-4.0,Santiago,42.88,-8.546
+201707,2017,7,47470,Other Ways,167,Other,42.0,-4.0,Santiago,42.88,-8.546
+201708,2017,8,57680,Other Ways,129,Other,42.0,-4.0,Santiago,42.88,-8.546
+201709,2017,9,42189,Other Ways,105,Other,42.0,-4.0,Santiago,42.88,-8.546
+201710,2017,10,31341,Other Ways,105,Other,42.0,-4.0,Santiago,42.88,-8.546
+201711,2017,11,7346,Other Ways,38,Other,42.0,-4.0,Santiago,42.88,-8.546
+201712,2017,12,2893,Other Ways,76,Other,42.0,-4.0,Santiago,42.88,-8.546
+201801,2018,1,1627,Other Ways,15,Other,42.0,-4.0,Santiago,42.88,-8.546
+201802,2018,2,2181,Other Ways,10,Other,42.0,-4.0,Santiago,42.88,-8.546
+201803,2018,3,11056,Other Ways,47,Other,42.0,-4.0,Santiago,42.88,-8.546
+201804,2018,4,22068,Other Ways,66,Other,42.0,-4.0,Santiago,42.88,-8.546
+201805,2018,5,40665,Other Ways,2878,Other,42.0,-4.0,Santiago,42.88,-8.546
+201806,2018,6,45685,Other Ways,163,Other,42.0,-4.0,Santiago,42.88,-8.546
+201807,2018,7,50867,Other Ways,233,Other,42.0,-4.0,Santiago,42.88,-8.546
+201808,2018,8,60415,Other Ways,119,Other,42.0,-4.0,Santiago,42.88,-8.546
+201809,2018,9,47006,Other Ways,94,Other,42.0,-4.0,Santiago,42.88,-8.546
+201810,2018,10,35602,Other Ways,107,Other,42.0,-4.0,Santiago,42.88,-8.546
+201811,2018,11,7651,Other Ways,48,Other,42.0,-4.0,Santiago,42.88,-8.546
+201812,2018,12,2553,Other Ways,34,Other,42.0,-4.0,Santiago,42.88,-8.546
+201901,2019,1,1651,Other Ways,16,Other,42.0,-4.0,Santiago,42.88,-8.546
+201902,2019,2,2119,Other Ways,14,Other,42.0,-4.0,Santiago,42.88,-8.546
+201903,2019,3,7474,Other Ways,45,Other,42.0,-4.0,Santiago,42.88,-8.546
+201904,2019,4,31722,Other Ways,143,Other,42.0,-4.0,Santiago,42.88,-8.546
+201905,2019,5,46673,Other Ways,371,Other,42.0,-4.0,Santiago,42.88,-8.546
+201906,2019,6,49058,Other Ways,182,Other,42.0,-4.0,Santiago,42.88,-8.546
+201907,2019,7,53319,Other Ways,281,Other,42.0,-4.0,Santiago,42.88,-8.546
+201908,2019,8,62814,Other Ways,179,Other,42.0,-4.0,Santiago,42.88,-8.546
+201909,2019,9,45653,Other Ways,119,Other,42.0,-4.0,Santiago,42.88,-8.546
+201910,2019,10,36118,Other Ways,242,Other,42.0,-4.0,Santiago,42.88,-8.546
+201911,2019,11,8274,Other Ways,96,Other,42.0,-4.0,Santiago,42.88,-8.546
+201912,2019,12,2710,Other Ways,41,Other,42.0,-4.0,Santiago,42.88,-8.546
+202001,2020,1,2001,Other Ways,39,Other,42.0,-4.0,Santiago,42.88,-8.546
+202002,2020,2,3076,Other Ways,50,Other,42.0,-4.0,Santiago,42.88,-8.546
+202003,2020,3,1948,Other Ways,4,Other,42.0,-4.0,Santiago,42.88,-8.546
+202006,2020,6,12,Other Ways,0,Other,42.0,-4.0,Santiago,42.88,-8.546
+202007,2020,7,9752,Other Ways,91,Other,42.0,-4.0,Santiago,42.88,-8.546
+202008,2020,8,19812,Other Ways,254,Other,42.0,-4.0,Santiago,42.88,-8.546
+202009,2020,9,10441,Other Ways,177,Other,42.0,-4.0,Santiago,42.88,-8.546
+202010,2020,10,6418,Other Ways,94,Other,42.0,-4.0,Santiago,42.88,-8.546
+202011,2020,11,585,Other Ways,13,Other,42.0,-4.0,Santiago,42.88,-8.546
+202012,2020,12,99,Other Ways,5,Other,42.0,-4.0,Santiago,42.88,-8.546
+202101,2021,1,60,Other Ways,0,Other,42.0,-4.0,Santiago,42.88,-8.546
+202102,2021,2,14,Other Ways,0,Other,42.0,-4.0,Santiago,42.88,-8.546
+202103,2021,3,194,Other Ways,5,Other,42.0,-4.0,Santiago,42.88,-8.546
+202104,2021,4,1024,Other Ways,21,Other,42.0,-4.0,Santiago,42.88,-8.546
+202105,2021,5,4295,Other Ways,65,Other,42.0,-4.0,Santiago,42.88,-8.546
+202106,2021,6,14824,Other Ways,317,Other,42.0,-4.0,Santiago,42.88,-8.546
+202107,2021,7,33963,Other Ways,393,Other,42.0,-4.0,Santiago,42.88,-8.546
+202108,2021,8,43575,Other Ways,607,Other,42.0,-4.0,Santiago,42.88,-8.546
+202109,2021,9,37463,Other Ways,772,Other,42.0,-4.0,Santiago,42.88,-8.546
+202110,2021,10,31170,Other Ways,554,Other,42.0,-4.0,Santiago,42.88,-8.546
+202111,2021,11,9094,Other Ways,237,Other,42.0,-4.0,Santiago,42.88,-8.546
+202112,2021,12,1193,Other Ways,28,Other,42.0,-4.0,Santiago,42.88,-8.546
+202201,2022,1,1617,Other Ways,86,Other,42.0,-4.0,Santiago,42.88,-8.546
+202202,2022,2,2034,Other Ways,59,Other,42.0,-4.0,Santiago,42.88,-8.546
+202203,2022,3,7389,Other Ways,153,Other,42.0,-4.0,Santiago,42.88,-8.546
+202204,2022,4,34283,Other Ways,531,Other,42.0,-4.0,Santiago,42.88,-8.546
+202205,2022,5,48254,Other Ways,574,Other,42.0,-4.0,Santiago,42.88,-8.546
+202206,2022,6,58012,Other Ways,1345,Other,42.0,-4.0,Santiago,42.88,-8.546
+202207,2022,7,67374,Other Ways,1170,Other,42.0,-4.0,Santiago,42.88,-8.546
+202208,2022,8,85842,Other Ways,2014,Other,42.0,-4.0,Santiago,42.88,-8.546
+202209,2022,9,66196,Other Ways,1604,Other,42.0,-4.0,Santiago,42.88,-8.546
+202210,2022,10,51356,Other Ways,856,Other,42.0,-4.0,Santiago,42.88,-8.546
+200401,2004,1,643,Muxia-Finisterre,0,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200402,2004,2,1401,Muxia-Finisterre,0,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200403,2004,3,3105,Muxia-Finisterre,0,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200404,2004,4,15554,Muxia-Finisterre,0,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200405,2004,5,16860,Muxia-Finisterre,1,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200406,2004,6,19295,Muxia-Finisterre,0,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200407,2004,7,31891,Muxia-Finisterre,0,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200408,2004,8,45601,Muxia-Finisterre,247,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200409,2004,9,22752,Muxia-Finisterre,10,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200410,2004,10,14556,Muxia-Finisterre,2,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200411,2004,11,4410,Muxia-Finisterre,8,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200412,2004,12,3802,Muxia-Finisterre,12,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200501,2005,1,269,Muxia-Finisterre,1,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200502,2005,2,565,Muxia-Finisterre,0,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200503,2005,3,3121,Muxia-Finisterre,3,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200504,2005,4,3307,Muxia-Finisterre,1,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200505,2005,5,9310,Muxia-Finisterre,0,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200506,2005,6,12619,Muxia-Finisterre,11,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200507,2005,7,18804,Muxia-Finisterre,49,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200508,2005,8,24831,Muxia-Finisterre,27,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200509,2005,9,12168,Muxia-Finisterre,9,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200510,2005,10,6873,Muxia-Finisterre,4,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200511,2005,11,1388,Muxia-Finisterre,0,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200512,2005,12,668,Muxia-Finisterre,2,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200601,2006,1,324,Muxia-Finisterre,2,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200602,2006,2,351,Muxia-Finisterre,1,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200603,2006,3,1096,Muxia-Finisterre,1,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200604,2006,4,7451,Muxia-Finisterre,11,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200605,2006,5,10147,Muxia-Finisterre,34,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200606,2006,6,13011,Muxia-Finisterre,5,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200607,2006,7,18720,Muxia-Finisterre,33,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200608,2006,8,26183,Muxia-Finisterre,8,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200609,2006,9,13470,Muxia-Finisterre,24,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200610,2006,10,7700,Muxia-Finisterre,4,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200611,2006,11,1755,Muxia-Finisterre,0,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200612,2006,12,848,Muxia-Finisterre,0,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200701,2007,1,350,Muxia-Finisterre,0,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200702,2007,2,665,Muxia-Finisterre,1,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200703,2007,3,1680,Muxia-Finisterre,1,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200704,2007,4,8115,Muxia-Finisterre,19,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200705,2007,5,12924,Muxia-Finisterre,4,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200706,2007,6,15182,Muxia-Finisterre,9,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200707,2007,7,20156,Muxia-Finisterre,76,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200708,2007,8,27289,Muxia-Finisterre,30,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200709,2007,9,15282,Muxia-Finisterre,30,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200710,2007,10,9443,Muxia-Finisterre,6,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200711,2007,11,2496,Muxia-Finisterre,0,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200712,2007,12,795,Muxia-Finisterre,3,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200801,2008,1,306,Muxia-Finisterre,2,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200802,2008,2,703,Muxia-Finisterre,0,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200803,2008,3,5327,Muxia-Finisterre,37,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200804,2008,4,5648,Muxia-Finisterre,6,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200805,2008,5,16001,Muxia-Finisterre,8,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200806,2008,6,15904,Muxia-Finisterre,7,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200807,2008,7,21066,Muxia-Finisterre,1,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200808,2008,8,29996,Muxia-Finisterre,21,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200809,2008,9,17378,Muxia-Finisterre,16,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200810,2008,10,9878,Muxia-Finisterre,2,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200811,2008,11,2309,Muxia-Finisterre,3,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200812,2008,12,1085,Muxia-Finisterre,1,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200901,2009,1,523,Muxia-Finisterre,0,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200902,2009,2,698,Muxia-Finisterre,0,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200903,2009,3,1850,Muxia-Finisterre,10,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200904,2009,4,10316,Muxia-Finisterre,16,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200905,2009,5,16498,Muxia-Finisterre,5,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200906,2009,6,19354,Muxia-Finisterre,1,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200907,2009,7,26752,Muxia-Finisterre,2,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200908,2009,8,35546,Muxia-Finisterre,14,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200909,2009,9,20623,Muxia-Finisterre,13,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200910,2009,10,11731,Muxia-Finisterre,6,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200911,2009,11,2353,Muxia-Finisterre,7,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+200912,2009,12,1010,Muxia-Finisterre,2,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201001,2010,1,1188,Muxia-Finisterre,1,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201002,2010,2,1640,Muxia-Finisterre,0,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201003,2010,3,5883,Muxia-Finisterre,7,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201004,2010,4,19587,Muxia-Finisterre,28,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201005,2010,5,28846,Muxia-Finisterre,121,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201006,2010,6,33756,Muxia-Finisterre,26,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201007,2010,7,42466,Muxia-Finisterre,114,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201008,2010,8,61534,Muxia-Finisterre,1346,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201009,2010,9,36848,Muxia-Finisterre,33,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201010,2010,10,26598,Muxia-Finisterre,79,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201011,2010,11,8075,Muxia-Finisterre,19,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201012,2010,12,5967,Muxia-Finisterre,23,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201101,2011,1,644,Muxia-Finisterre,3,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201102,2011,2,820,Muxia-Finisterre,2,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201103,2011,3,3023,Muxia-Finisterre,7,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201104,2011,4,14154,Muxia-Finisterre,11,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201105,2011,5,19805,Muxia-Finisterre,25,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201106,2011,6,25239,Muxia-Finisterre,25,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201107,2011,7,30842,Muxia-Finisterre,28,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201108,2011,8,41489,Muxia-Finisterre,47,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201109,2011,9,26023,Muxia-Finisterre,38,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201110,2011,10,16243,Muxia-Finisterre,4,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201111,2011,11,3591,Muxia-Finisterre,9,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201112,2011,12,1498,Muxia-Finisterre,3,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201201,2012,1,872,Muxia-Finisterre,4,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201202,2012,2,1305,Muxia-Finisterre,0,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201203,2012,3,3260,Muxia-Finisterre,1,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201204,2012,4,14749,Muxia-Finisterre,27,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201205,2012,5,21776,Muxia-Finisterre,47,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201206,2012,6,25517,Muxia-Finisterre,44,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201207,2012,7,32818,Muxia-Finisterre,95,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201208,2012,8,41096,Muxia-Finisterre,120,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201209,2012,9,27321,Muxia-Finisterre,36,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201210,2012,10,18091,Muxia-Finisterre,17,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201211,2012,11,4170,Muxia-Finisterre,8,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201212,2012,12,1483,Muxia-Finisterre,18,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201301,2013,1,806,Muxia-Finisterre,5,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201302,2013,2,1382,Muxia-Finisterre,4,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201303,2013,3,7228,Muxia-Finisterre,28,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201304,2013,4,11532,Muxia-Finisterre,33,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201305,2013,5,25205,Muxia-Finisterre,25,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201306,2013,6,29374,Muxia-Finisterre,47,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201307,2013,7,36559,Muxia-Finisterre,126,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201308,2013,8,46726,Muxia-Finisterre,96,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201309,2013,9,30894,Muxia-Finisterre,48,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201310,2013,10,19607,Muxia-Finisterre,27,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201311,2013,11,4907,Muxia-Finisterre,9,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201312,2013,12,1659,Muxia-Finisterre,6,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201401,2014,1,906,Muxia-Finisterre,1,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201402,2014,2,970,Muxia-Finisterre,1,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201403,2014,3,3150,Muxia-Finisterre,10,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201404,2014,4,17347,Muxia-Finisterre,29,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201405,2014,5,27354,Muxia-Finisterre,79,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201406,2014,6,33021,Muxia-Finisterre,94,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201407,2014,7,39581,Muxia-Finisterre,188,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201408,2014,8,51218,Muxia-Finisterre,87,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201409,2014,9,34457,Muxia-Finisterre,96,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201410,2014,10,23205,Muxia-Finisterre,51,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201411,2014,11,4803,Muxia-Finisterre,9,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201412,2014,12,1870,Muxia-Finisterre,7,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201501,2015,1,1217,Muxia-Finisterre,9,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201502,2015,2,1544,Muxia-Finisterre,6,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201503,2015,3,5080,Muxia-Finisterre,33,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201504,2015,4,17721,Muxia-Finisterre,30,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201505,2015,5,31076,Muxia-Finisterre,92,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201506,2015,6,35923,Muxia-Finisterre,173,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201507,2015,7,44794,Muxia-Finisterre,53,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201508,2015,8,54794,Muxia-Finisterre,188,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201509,2015,9,37429,Muxia-Finisterre,90,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201510,2015,10,25576,Muxia-Finisterre,59,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201511,2015,11,5228,Muxia-Finisterre,12,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201512,2015,12,2062,Muxia-Finisterre,13,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201601,2016,1,1304,Muxia-Finisterre,8,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201602,2016,2,1733,Muxia-Finisterre,5,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201603,2016,3,11067,Muxia-Finisterre,15,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201604,2016,4,15100,Muxia-Finisterre,10,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201605,2016,5,32776,Muxia-Finisterre,87,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201606,2016,6,39070,Muxia-Finisterre,103,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201607,2016,7,45471,Muxia-Finisterre,73,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201608,2016,8,53704,Muxia-Finisterre,245,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201609,2016,9,40149,Muxia-Finisterre,135,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201610,2016,10,28222,Muxia-Finisterre,61,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201611,2016,11,6394,Muxia-Finisterre,16,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201612,2016,12,2864,Muxia-Finisterre,12,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201701,2017,1,1354,Muxia-Finisterre,13,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201702,2017,2,1696,Muxia-Finisterre,10,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201703,2017,3,5176,Muxia-Finisterre,6,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201704,2017,4,26925,Muxia-Finisterre,52,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201705,2017,5,35347,Muxia-Finisterre,66,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201706,2017,6,41619,Muxia-Finisterre,77,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201707,2017,7,47470,Muxia-Finisterre,151,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201708,2017,8,57680,Muxia-Finisterre,130,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201709,2017,9,42189,Muxia-Finisterre,89,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201710,2017,10,31341,Muxia-Finisterre,40,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201711,2017,11,7346,Muxia-Finisterre,26,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201712,2017,12,2893,Muxia-Finisterre,5,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201801,2018,1,1627,Muxia-Finisterre,4,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201802,2018,2,2181,Muxia-Finisterre,16,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201803,2018,3,11056,Muxia-Finisterre,70,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201804,2018,4,22068,Muxia-Finisterre,127,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201805,2018,5,40665,Muxia-Finisterre,0,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201806,2018,6,45685,Muxia-Finisterre,175,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201807,2018,7,50867,Muxia-Finisterre,172,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201808,2018,8,60415,Muxia-Finisterre,132,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201809,2018,9,47006,Muxia-Finisterre,144,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201810,2018,10,35602,Muxia-Finisterre,160,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201811,2018,11,7651,Muxia-Finisterre,26,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201812,2018,12,2553,Muxia-Finisterre,7,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201901,2019,1,1651,Muxia-Finisterre,9,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201902,2019,2,2119,Muxia-Finisterre,7,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201903,2019,3,7474,Muxia-Finisterre,20,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201904,2019,4,31722,Muxia-Finisterre,64,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201905,2019,5,46673,Muxia-Finisterre,114,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201906,2019,6,49058,Muxia-Finisterre,223,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201907,2019,7,53319,Muxia-Finisterre,548,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201908,2019,8,62814,Muxia-Finisterre,341,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201909,2019,9,45653,Muxia-Finisterre,111,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201910,2019,10,36118,Muxia-Finisterre,70,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201911,2019,11,8274,Muxia-Finisterre,18,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+201912,2019,12,2710,Muxia-Finisterre,23,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+202001,2020,1,2001,Muxia-Finisterre,8,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+202002,2020,2,3076,Muxia-Finisterre,19,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+202003,2020,3,1948,Muxia-Finisterre,15,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+202006,2020,6,12,Muxia-Finisterre,0,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+202007,2020,7,9752,Muxia-Finisterre,20,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+202008,2020,8,19812,Muxia-Finisterre,150,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+202009,2020,9,10441,Muxia-Finisterre,23,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+202010,2020,10,6418,Muxia-Finisterre,28,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+202011,2020,11,585,Muxia-Finisterre,0,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+202012,2020,12,99,Muxia-Finisterre,0,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+202101,2021,1,60,Muxia-Finisterre,0,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+202102,2021,2,14,Muxia-Finisterre,0,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+202103,2021,3,194,Muxia-Finisterre,0,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+202104,2021,4,1024,Muxia-Finisterre,15,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+202105,2021,5,4295,Muxia-Finisterre,15,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+202106,2021,6,14824,Muxia-Finisterre,56,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+202107,2021,7,33963,Muxia-Finisterre,319,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+202108,2021,8,43575,Muxia-Finisterre,101,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+202109,2021,9,37463,Muxia-Finisterre,123,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+202110,2021,10,31170,Muxia-Finisterre,128,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+202111,2021,11,9094,Muxia-Finisterre,39,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+202112,2021,12,1193,Muxia-Finisterre,1,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+202201,2022,1,1617,Muxia-Finisterre,3,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+202202,2022,2,2034,Muxia-Finisterre,1,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+202203,2022,3,7389,Muxia-Finisterre,18,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+202204,2022,4,34283,Muxia-Finisterre,166,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+202205,2022,5,48254,Muxia-Finisterre,142,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+202206,2022,6,58012,Muxia-Finisterre,124,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+202207,2022,7,67374,Muxia-Finisterre,363,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+202208,2022,8,85842,Muxia-Finisterre,338,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+202209,2022,9,66196,Muxia-Finisterre,269,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
+202210,2022,10,51356,Muxia-Finisterre,137,Finisterre,42.909,-9.261,Santiago,42.88,-8.546
