@@ -25,11 +25,11 @@ This repository bridges raw data processing with SQL modeling and Python-based e
 
 The repository is organized as follows:
 
-*   **`data:** Contains the CSV datasets.
-*   **`notebooks:**`camino_main.ipynb`: The central notebook containing data loading, cleaning, merging logic, and Python-based EDA.
-*   **`SQL:** `camino.sql`: SQL script for creating the database schema (`camino_santiago`) and defining tables (`df_routes`, `df_gender`, etc.) along with key analytical queries.
-*   **`figures:** Stores generated charts and visual assets used in presentations.
-*   **`slides:** Presentation materials summarizing the findings.
+*   **data:** Contains the CSV datasets.
+*   **notebooks:** camino_main.ipynb, The central notebook containing data loading, cleaning, merging logic, and Python-based EDA.
+*   **SQL:** `camino.sql`: SQL script for creating the database schema (`camino_santiago`) and defining tables (`df_routes`, `df_gender`, etc.) along with key analytical queries.
+*   **figures:** Stores generated charts and visual assets used in presentations.
+*   **slides:** Presentation materials summarizing the findings.
 
 ## 📅 Project Log
 
