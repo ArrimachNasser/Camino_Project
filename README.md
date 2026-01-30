@@ -1,7 +1,7 @@
 # Camino de Santiago - Statistics Analysis
 
 ## 🧪 Project Overview
-
+FINAL SLIDE PRESENTATION: https://www.canva.com/design/DAG_nebk9Lk/sLvHiIfI4g30UtyNhWloUw/edit?utm_content=DAG_nebk9Lk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 This project analyzes the "The Santiago Way" statistics to uncover trends and insights regarding pilgrims' journeys to Santiago de Compostela. The analysis utilizes a dataset spanning nearly two decades to evaluate key questions proposed in the initial research scope.
 
 The core objectives of this analysis are to determine:
